@@ -1,0 +1,7931 @@
+[
+  {
+    "_source": {
+      "top_skills": ["C#", "WPF", "Angular"],
+      "other_skills": [
+        ".NET",
+        "Agile Softwareentwicklung",
+        "Clean Code Development",
+        "Software Engineering",
+        "Softwareentwicklung",
+        "Cuda",
+        "Bildverarbeitung",
+        "HL7",
+        "Dicom",
+        "Algorithmen"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 1
+  },
+  {
+    "_source": {
+      "top_skills": ["Automatisierungstechnik", "SPS", "Steuerungstechnik"],
+      "other_skills": ["Beckhoff Twincat", "Mechatronik", "SPS Programmierung"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 2
+  },
+  {
+    "_source": {
+      "top_skills": ["Web Analytics", "JavaScript"],
+      "other_skills": [
+        "Google Tag Manager",
+        "A/B Testing",
+        "Mobile Analytics",
+        "Conversion Optimierung",
+        "Digital Analytics",
+        "Google Analytics",
+        "Google Cloud Platform (GCP)",
+        "Adobe Analytics",
+        "Econda",
+        "Tag Management",
+        "Etracker",
+        "Optimizely",
+        "Tracking",
+        "Web Analyse",
+        "Tableau",
+        "Microsoft Power BI"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 52000
+    },
+    "_id": 3
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "JavaScript", "HTML5"],
+      "other_skills": [
+        "AJAX",
+        "CSS",
+        "Less",
+        "Sass",
+        "Bootstrap",
+        "MySQL",
+        "Twig",
+        "Git",
+        "PhpStorm",
+        "Scrum",
+        "Backend",
+        "Frontend",
+        "Full Stack Entwicklung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 4
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "JavaScript"],
+      "other_skills": [
+        "Vaadin",
+        "Hibernate",
+        "Swing",
+        "CSS",
+        "Elasticsearch",
+        "SQL",
+        "Softwareentwicklung",
+        "Software Architecture"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 5
+  },
+  {
+    "_source": {
+      "top_skills": ["Next.js", "Node.js", "React"],
+      "other_skills": ["TypeScript", "Software Packaging", "Flutter"],
+      "seniorities": ["senior"],
+      "max_salary": 57000
+    },
+    "_id": 6
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java EE", "React"],
+      "other_skills": [
+        "Spring Boot",
+        "AWS",
+        "Angular",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Cloud"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 7
+  },
+  {
+    "_source": {
+      "top_skills": ["3rd Level Support", "C#", "ASP.NET"],
+      "other_skills": [
+        "IT Support",
+        "Ticketsystem",
+        "Ticketing System",
+        "MVC",
+        "Rest API"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 8
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Oracle Database", "MSSQL"],
+      "other_skills": ["Datenbanksysteme"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 9
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "C#", "Objektorientiertes Design"],
+      "other_skills": ["Clean Code Development"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 10
+  },
+  {
+    "_source": {
+      "top_skills": ["C/al", "Microsoft Dynamics 365", "Git"],
+      "other_skills": [
+        "Application Integration",
+        "Softwareentwicklung",
+        "Devops",
+        "Docker"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 11
+  },
+  {
+    "_source": {
+      "top_skills": ["Full Stack Development", "Backend"],
+      "other_skills": ["Frontend"],
+      "seniorities": ["none", "junior"],
+      "max_salary": 65000
+    },
+    "_id": 12
+  },
+  {
+    "_source": {
+      "top_skills": ["Backend", "Frontend"],
+      "other_skills": ["Full Stack Entwicklung"],
+      "seniorities": ["midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 13
+  },
+  {
+    "_source": {
+      "top_skills": ["Java EE", "Websphere", "Clean Code Development"],
+      "other_skills": [
+        "Microservices",
+        "Docker",
+        "Apache Maven",
+        "IBM Websphere",
+        "Kubernetes",
+        "Solid",
+        "TDD",
+        "Domain Driven Design",
+        "Test Driven Development"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 110000
+    },
+    "_id": 14
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Analytics", "Python", "Data Engineering"],
+      "other_skills": [
+        "Microsoft Power BI",
+        "Apache Spark",
+        "Consulting",
+        "Business Intelligence",
+        "SQL",
+        "Microsoft Azure"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 15
+  },
+  {
+    "_source": {
+      "top_skills": ["Go", "Golang", "Softwareentwicklung"],
+      "other_skills": [
+        "Backend",
+        "Software Architektur",
+        "Rest API",
+        "Relationale Datenbanken"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 55000
+    },
+    "_id": 16
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "WPF"],
+      "other_skills": ["WCF", "UML", "TDD"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 17
+  },
+  {
+    "_source": {
+      "top_skills": ["Vue.js", "TypeScript", "Software Testing"],
+      "other_skills": [
+        "Test Automation",
+        "Scrum",
+        "Software Architektur",
+        "UI Design",
+        "Medizinprodukte"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 18
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Agile Entwicklungsmethoden", "Algorithms"],
+      "other_skills": ["Energiewirtschaft", "Go"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 19
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Python"],
+      "other_skills": [
+        "Go",
+        "Rust",
+        "MQTT",
+        "Restful Webservices",
+        "Requirements Management",
+        "Polarion",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 20
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "React Native", "TypeScript"],
+      "other_skills": ["Python", "Django", "Kubernetes"],
+      "seniorities": ["midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 21
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "React Native", "TypeScript"],
+      "other_skills": ["Python", "Django", "Kubernetes"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 22
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Laravel"],
+      "other_skills": ["Symfony Framework"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 23
+  },
+  {
+    "_source": {
+      "top_skills": ["Vue.js", "PHP", "Web Development"],
+      "other_skills": [
+        "Laravel",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "UI/UX",
+        "Code Reviews",
+        "Container",
+        "MVC",
+        "Scrum",
+        "Agile Softwareentwicklung",
+        "Software Deployment",
+        "Pair Programming"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 75000
+    },
+    "_id": 24
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "React", "Rest API"],
+      "other_skills": ["Kubernetes", "Docker", "Microsoft Azure", "Gitlab CI"],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 25
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Rest API", "Apache Maven"],
+      "other_skills": [
+        "C++",
+        "Bash",
+        "Powershell",
+        "Groovy",
+        "Linux",
+        "Windows Betriebssysteme"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 26
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Web Applications",
+        "Software Architektur",
+        "Softwareentwicklung"
+      ],
+      "other_skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Docker",
+        "ETL",
+        "Kubernetes",
+        "Datenbanken",
+        "Code Reviews"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 63000
+    },
+    "_id": 27
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "React", "ELM"],
+      "other_skills": ["CI/CD", "Vue.js", "Node.js", "JavaScript"],
+      "seniorities": ["midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 28
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Java"],
+      "other_skills": ["Kafka", "Kotlin"],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 29
+  },
+  {
+    "_source": {
+      "top_skills": ["Ruby", "Ruby on Rails"],
+      "other_skills": ["Agile Softwareentwicklung", "GraphQL"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 72000
+    },
+    "_id": 30
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "JavaScript", "React"],
+      "other_skills": ["Scrum"],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 31
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "JavaScript", "Golang"],
+      "other_skills": ["TypeScript"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 32
+  },
+  {
+    "_source": {
+      "top_skills": ["Saas", "IoT", "AWS"],
+      "other_skills": ["Golang", "Java", "Microservices", "JavaScript"],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 33
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "Golang", "JavaScript"],
+      "other_skills": ["TypeScript"],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 34
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Analytics", "Python", "Data Engineering"],
+      "other_skills": [
+        "Microsoft Power BI",
+        "Apache Spark",
+        "Consulting",
+        "Business Intelligence",
+        "SQL",
+        "Microsoft Azure",
+        "ETL",
+        "Data Visualization",
+        "Pandas"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 35
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "Data Engineering", "Docker"],
+      "other_skills": [
+        "Rdbms",
+        "Linux",
+        "Bash",
+        "Container",
+        "Datenschutz",
+        "Reporting",
+        "MySQL",
+        "MariaDB",
+        "Nosql",
+        "Clustering",
+        "Cloud",
+        "Kubernetes",
+        "TCP/IP"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 36
+  },
+  {
+    "_source": {
+      "top_skills": ["Devops", "C#", ".NET"],
+      "other_skills": [
+        "CI/CD",
+        "Microsoft IIS",
+        "Microsoft Azure",
+        "Kubernetes",
+        "SQL",
+        "Microsoft SQL Server",
+        "Clean Code Development",
+        "Camunda",
+        "Automatisierung",
+        "Infrastructure as Code",
+        "Containers",
+        "SQL Tuning",
+        "XML",
+        "Powershell"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 80000
+    },
+    "_id": 37
+  },
+  {
+    "_source": {
+      "top_skills": ["Quantitative Analyse", "Derivate", "Financial Modeling"],
+      "other_skills": [
+        "C#",
+        "Quantitative Analysis",
+        "Derivatives",
+        "Financial Modelling",
+        "Capital Markets",
+        "Physik",
+        "Physics",
+        "Mathematik",
+        "Mathematics",
+        "Financial Mathematics",
+        "Banking",
+        "Investment Banking",
+        "Kapitalmarkt",
+        "Kapitalm\u00e4rkte"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 38
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Git", "Computer Graphics"],
+      "other_skills": ["Mathematics", "Agile Softwareentwicklung"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 39
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "Git"],
+      "other_skills": ["Visual Studio", "Agile Entwicklungsmethoden"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 40
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "Angular", "Web Development"],
+      "other_skills": [
+        "Web Applications",
+        "Webentwicklung",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 41
+  },
+  {
+    "_source": {
+      "top_skills": ["IoT", "Industrie 4.0", "Cloud"],
+      "other_skills": [
+        "Data Science",
+        "Machine Learning",
+        "K\u00fcnstliche Intelligenz"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 42
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Embedded Linux", "C"],
+      "other_skills": ["Software Development"],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 43
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Symfony Framework", "PostgreSQL"],
+      "other_skills": [
+        "Rest API",
+        "Docker",
+        "Design Patterns",
+        "Test Driven Development",
+        "Big Data"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 44
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      "other_skills": ["Python", "Tensorflow", "C++", "Data Processing"],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 45
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      "other_skills": ["Python", "Tensorflow", "C++"],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 46
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      "other_skills": ["Python", "Tensorflow", "C++"],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 47
+  },
+  {
+    "_source": {
+      "top_skills": ["Node.js", "TypeScript", "Golang"],
+      "other_skills": [
+        "React",
+        "Webhosting",
+        "Agile Softwareentwicklung",
+        "MongoDB",
+        "Microservices",
+        "Backend",
+        "Frontend"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 48
+  },
+  {
+    "_source": {
+      "top_skills": ["PostgreSQL", "MSSQL", "Software Testing"],
+      "other_skills": [
+        "Hudson",
+        "Continuous Integration",
+        "Oracle",
+        "Manual Testing",
+        "Software Quality Assurance",
+        "Scrum",
+        "Jenkins"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 49
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "SQL", ".NET"],
+      "other_skills": ["Git", "Rest API", "Software Architecture"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 50
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Microsoft Azure", "Data Lake"],
+      "other_skills": [
+        "Scala",
+        "AWS",
+        "Infrastructure as Code",
+        "Terraform",
+        "Spark",
+        "Kafka",
+        "ETL",
+        "ELT",
+        "Docker",
+        "Kubernetes",
+        "DWH Architektur"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 51
+  },
+  {
+    "_source": {
+      "top_skills": ["Platforms", "Infrastructure as Code", "Kubernetes"],
+      "other_skills": [
+        "IT Plattformen",
+        "Big Data",
+        "Data Engineering",
+        "CI/CD",
+        "Python",
+        "Relationale Datenbanken",
+        "Apache Spark",
+        "Apache Kafka",
+        "Apache Hive",
+        "Spark",
+        "Amazon S3",
+        "Object Storage"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 52
+  },
+  {
+    "_source": {
+      "top_skills": ["Kubernetes", "SQL", "C++"],
+      "other_skills": [
+        "Oracle Database",
+        "Sybase",
+        "Java",
+        "PostgreSQL",
+        "Oracle SQL",
+        "Google Cloud Platform (GCP)",
+        "Microsoft Azure",
+        "Microservices",
+        "IT Architecture",
+        "IT Business Analyse"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 110000
+    },
+    "_id": 53
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "React", "TypeScript"],
+      "other_skills": [
+        "Scrum",
+        "Agiles Arbeiten",
+        "Microsoft Azure",
+        "C#",
+        "Entity Framework"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 54
+  },
+  {
+    "_source": {
+      "top_skills": ["AI", "Automation Testing", "Software Test Automation"],
+      "other_skills": ["Software Testing"],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 55
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "Shopware 5"],
+      "other_skills": [
+        "Node.js",
+        "PHP",
+        "HTML5",
+        "Git",
+        "Bootstrap",
+        "SQL",
+        "MongoDB",
+        "HTML",
+        "JavaScript",
+        "Docker"
+      ],
+      "seniorities": ["midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 56
+  },
+  {
+    "_source": {
+      "top_skills": ["Android", "Testfallerstellung", "Teststrategie"],
+      "other_skills": [
+        "X RAY",
+        "Jira",
+        "Testautomatisierung",
+        "Software Testing",
+        "Agile Testing",
+        "Testplanung",
+        "Confluence",
+        "Android Apps",
+        "Gitlab",
+        "Linux",
+        "Scrum",
+        "CI/CD",
+        "Testkonzeption",
+        "Virtualisierung",
+        "OpenStack",
+        "Regressionstest",
+        "Rest API",
+        "QA"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 77000
+    },
+    "_id": 57
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Python", "Owasp"],
+      "other_skills": [
+        "OAUTH2",
+        "TDD",
+        "Spring Boot",
+        "Web Frameworks",
+        "Cloud",
+        "Google Cloud Platform (GCP)",
+        "CI/CD",
+        "Angular"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 87000
+    },
+    "_id": 58
+  },
+  {
+    "_source": {
+      "top_skills": ["C++"],
+      "other_skills": ["Python", "CI/CD"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 67000
+    },
+    "_id": 59
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML", "JavaScript", "React"],
+      "other_skills": ["Docker", "HTML5", "C#", "Angular"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 60
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Test Automation", ".NET"],
+      "other_skills": [
+        "Quality Assurance",
+        "Performance Testing",
+        "Automation Testing",
+        "Manual Testing",
+        "Testautomatisierung",
+        "QA",
+        "Test Case Design",
+        "Functional Testing",
+        "Integration Testing",
+        "Exploratory Testing",
+        "Software Quality Assurance",
+        "Acceptance Testing",
+        "Test Planning",
+        "Regression Testing",
+        "API Testing",
+        "C#",
+        "Testmanagement"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 82000
+    },
+    "_id": 61
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Selenium"],
+      "other_skills": [
+        "Mobile Testing",
+        "Agile Testing",
+        "Manual Testing",
+        "Software Testing",
+        "Appium"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 62
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Groovy", "Jira"],
+      "other_skills": ["IT Prozesse", "IT Architektur"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 92000
+    },
+    "_id": 63
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Software Architektur", "PHP"],
+      "other_skills": [
+        "MySQL",
+        "HTML",
+        ".NET",
+        "Vue.js",
+        "Shopware",
+        "Pimcore",
+        "Golang",
+        "Docker",
+        "IT Projektmanagement"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 64
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "C#", "Visual Studio"],
+      "other_skills": ["Devops", "Microsoft Azure", "SQL"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 65
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Full Stack Development", "HTML5"],
+      "other_skills": [
+        "CSS",
+        "JavaScript",
+        "Apache Wicket",
+        "Responsive Design",
+        "Spring Boot",
+        "Git",
+        "Gradle",
+        "Web Services",
+        "JPA",
+        "Bootstrap"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 66
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "JavaScript", "React"],
+      "other_skills": ["Safe Scaled Agile Framework", "Apis", "Scrum"],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 67
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "JavaScript", "Redux"],
+      "other_skills": ["TypeScript", "Scrum"],
+      "seniorities": ["senior"],
+      "max_salary": 75000
+    },
+    "_id": 68
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "Angular"],
+      "other_skills": [
+        "Python",
+        "Go",
+        "Git",
+        "Web Development",
+        "Docker",
+        "TypeScript"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 69
+  },
+  {
+    "_source": {
+      "top_skills": ["React", ".NET", "C#"],
+      "other_skills": ["Docker", "Kubernetes", "ASP.NET"],
+      "seniorities": ["midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 70
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "CSS"],
+      "other_skills": [
+        "Node.js",
+        "Rest API",
+        "Redux",
+        "Flutter",
+        "Firebase",
+        "GitHub",
+        "Ant",
+        "Web Components",
+        "Figma"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 71
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "TypeScript", "React"],
+      "other_skills": ["JSON", "XML"],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 72
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Rest API", "Software Architecture"],
+      "other_skills": [
+        "Docker",
+        "Git",
+        "Software Development",
+        "PostgreSQL",
+        "Couchbase",
+        "Backend",
+        "Linux/Unix",
+        "Microservices",
+        "Distributed Systems",
+        "SQL"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 73
+  },
+  {
+    "_source": {
+      "top_skills": ["Webentwicklung", "SQL"],
+      "other_skills": ["PHP", "HTML5", "JavaScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 74
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Docker", "SQL"],
+      "other_skills": ["Node.js", "Phpunit"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 75
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "Frontend"],
+      "other_skills": ["JavaScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 76
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Softwareentwicklung",
+        "Artificial Intelligence",
+        "Python"
+      ],
+      "other_skills": ["Agile Softwareentwicklung", "LLM", "AI"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 77
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "JavaScript", "Angular"],
+      "other_skills": ["HTML"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 78
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Angular"],
+      "other_skills": ["JavaScript", "Oracle"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 79
+  },
+  {
+    "_source": {
+      "top_skills": ["SPS", "SPS Programmierung", "IoT"],
+      "other_skills": ["Smart Factory"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 80
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Vue.js", "Jenkins"],
+      "other_skills": [
+        "TypeScript",
+        "Docker",
+        "Atlassian",
+        "Google Cloud Platform (GCP)"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 81
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "JavaScript", "Symfony Framework"],
+      "other_skills": [
+        "Vue.js",
+        "Ruby on Rails",
+        "Rest API",
+        "Full Stack Development"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 82
+  },
+  {
+    "_source": {
+      "top_skills": ["Lead Development", ".NET", "C#"],
+      "other_skills": ["Software Architecture", "Cloud Architektur"],
+      "seniorities": ["senior"],
+      "max_salary": 96000
+    },
+    "_id": 83
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Data Engineering", "SQL"],
+      "other_skills": ["Git", "Microsoft Azure", "Terraform"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 84
+  },
+  {
+    "_source": {
+      "top_skills": ["SAP ABAP OO", "SAP", "Jira"],
+      "other_skills": ["Servicenow", "ABAP"],
+      "seniorities": ["junior"],
+      "max_salary": 75000
+    },
+    "_id": 85
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "SQL"],
+      "other_skills": ["Rest API", "Quarkus", "Spring Boot", "Cloud", "Devops"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 86
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Python"],
+      "other_skills": [
+        "Rest API",
+        "Spring Boot",
+        "Cloud",
+        "Devops",
+        "Java EE",
+        "Quarkus"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 87000
+    },
+    "_id": 87
+  },
+  {
+    "_source": {
+      "top_skills": ["Devops", "Life Cycle Assessment", "Docker"],
+      "other_skills": [
+        "Architektur",
+        "MySQL",
+        "C#",
+        "Entity Framework",
+        "Vue.js",
+        "Linux",
+        "JavaScript",
+        "TypeScript",
+        "Websockets",
+        "MQTT",
+        "Swagger"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 88
+  },
+  {
+    "_source": {
+      "top_skills": ["Kubernetes", "CI/CD", "Technical Leadership"],
+      "other_skills": [
+        "Node.js",
+        "Angular",
+        "Jenkins",
+        "Docker",
+        "Devops",
+        "Google Cloud Platform (GCP)",
+        "Groovy",
+        "Infrastructure as Code",
+        "ELK Stack"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 89
+  },
+  {
+    "_source": {
+      "top_skills": ["React", ".NET", "C#"],
+      "other_skills": ["HTML", "SCSS", "TypeScript", "Docker", "Kubernetes"],
+      "seniorities": ["midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 90
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Angular", "Spring Boot"],
+      "other_skills": ["Jira", "Git", "Jenkins", "Sonarqube"],
+      "seniorities": ["midlevel"],
+      "max_salary": 90000
+    },
+    "_id": 91
+  },
+  {
+    "_source": {
+      "top_skills": ["TYPO3", "PHP", "Rest"],
+      "other_skills": ["Scrum", "Webentwicklung"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 92
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Test Automation", ".NET"],
+      "other_skills": [
+        "Quality Assurance",
+        "Performance Testing",
+        "Automation Testing",
+        "Manual Testing",
+        "Testautomatisierung",
+        "QA",
+        "Test Case Design",
+        "Functional Testing",
+        "Integration Testing",
+        "Exploratory Testing",
+        "Software Quality Assurance",
+        "Acceptance Testing",
+        "Test Planning",
+        "Regression Testing",
+        "API Testing",
+        "C#",
+        "Testmanagement"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 82000
+    },
+    "_id": 93
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "Ssis", "SQL"],
+      "other_skills": [
+        "C#",
+        "Azure DevOps",
+        "Git",
+        "Data Engineering",
+        "Business Intelligence",
+        "ETL"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 87000
+    },
+    "_id": 94
+  },
+  {
+    "_source": {
+      "top_skills": ["JSON", "Requirements", "Node Red"],
+      "other_skills": ["Solution Architecture", "Datenmodellierung"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 95
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "CI/CD"],
+      "other_skills": [
+        "Benchmarking",
+        "Agile Methoden",
+        "Mathematik",
+        "Betriebliche Altersvorsorge"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 96
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Quality Assurance"],
+      "other_skills": [
+        "ISTQB",
+        "Test Automation",
+        "Agile Testing",
+        "Scrum",
+        "Manual Testing"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 97
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "Ssis", "SQL"],
+      "other_skills": [
+        "C#",
+        "Azure DevOps",
+        "Git",
+        "Data Engineering",
+        "Business Intelligence",
+        "ETL"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 87000
+    },
+    "_id": 98
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "TypeScript", "HTML"],
+      "other_skills": [
+        "Apis",
+        "Frontend",
+        "CSS",
+        "JavaScript",
+        "Docker",
+        "CI/CD",
+        "AWS"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 99
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Power BI", "SQL", "Business Intelligence"],
+      "other_skills": ["SAP ERP", "Process Mining", "Data Engineering"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 100
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Kotlin", "Kubernetes"],
+      "other_skills": [
+        "Microservices",
+        "Git",
+        "Docker",
+        "Devops",
+        "SQL",
+        "Linux",
+        "PostgreSQL",
+        "Apache Kafka"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 101
+  },
+  {
+    "_source": {
+      "top_skills": ["Quality Assurance", "Hardware Testing", "Selenium"],
+      "other_skills": ["Automation Testing", "Software Testing"],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 102
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "Node.js", "Flutter"],
+      "other_skills": [
+        "AWS",
+        "Dart",
+        "EC2",
+        "Amazon S3",
+        "RDS",
+        "Docker",
+        "Firebase"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 103
+  },
+  {
+    "_source": {
+      "top_skills": ["Simulationen", "Mathematische Modellierung"],
+      "other_skills": [
+        "Docker",
+        "Linux",
+        "Cloud",
+        "Python",
+        "Scientific Programming"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 104
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Analysis", "Data Engineering"],
+      "other_skills": ["Big Data"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 105
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "Data Analysis", "Data Engineering"],
+      "other_skills": [
+        "ETL",
+        "Data Visualization",
+        "Data Governance",
+        "DWH Architektur",
+        "Data Modeling",
+        "Data Warehousing",
+        "PostgreSQL",
+        "Datenmodellierung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 106
+  },
+  {
+    "_source": {
+      "top_skills": ["Golang", "Go"],
+      "other_skills": [
+        "Kubernetes",
+        "AWS",
+        "Google Cloud Platform (GCP)",
+        "Microsoft Azure",
+        "Docker"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 95000
+    },
+    "_id": 107
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Quality Assurance",
+        "Software Testing",
+        "Testautomatisierung"
+      ],
+      "other_skills": [
+        "BDD",
+        "Data Analysis",
+        "Gherkin",
+        "Unit Testing",
+        "CI/CD",
+        "Manual Testing",
+        "Selenium",
+        "End to End Testing",
+        "Funktionstest",
+        "Scrum",
+        "Jira",
+        "Confluence"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 77000
+    },
+    "_id": 108
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Angular", "JavaScript"],
+      "other_skills": ["TypeScript", "HTML", "CSS", ".NET", "CMS", "Rest API"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 109
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Restful Architecture"],
+      "other_skills": [
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "TDD",
+        "PostgreSQL",
+        "Hibernate",
+        "Node.js",
+        "TypeScript"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 110
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "HTML5", "SCSS"],
+      "other_skills": ["Angularjs", "CI/CD"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 111
+  },
+  {
+    "_source": {
+      "top_skills": ["Deep Learning", "Computer Vision", "Data Engineering"],
+      "other_skills": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Data Analysis",
+        "Python",
+        "Pandas",
+        "Numpy",
+        "Machine Learning",
+        "Neural Networks",
+        "Natural Language Processing",
+        "Data Visualization",
+        "Scikit Learn",
+        "Keras",
+        "Tensorflow",
+        "Scrum",
+        "Git"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 112
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Quality Assurance", "Mobile Testing"],
+      "other_skills": ["API Testing", "QA", "Testmanagement", "Softwaretests"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 113
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Software Testing",
+        "Quality Assurance",
+        "Automation Testing"
+      ],
+      "other_skills": [
+        "ISTQB",
+        "Test Automation",
+        "Agile Testing",
+        "Scrum",
+        "Manual Testing"
+      ],
+      "seniorities": ["midlevel"],
+      "max_salary": 80000
+    },
+    "_id": 114
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Unity", "Game Development"],
+      "other_skills": ["Game Programming", "Backend", "Client/Server"],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 115
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Unity", "Game Development"],
+      "other_skills": ["Game Programming", "Backend", "Client/Server"],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 116
+  },
+  {
+    "_source": {
+      "top_skills": ["iOS Entwicklung", "Xcode", "Swift"],
+      "other_skills": ["Objective-C", "Git", "Agile Softwareentwicklung"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 117
+  },
+  {
+    "_source": {
+      "top_skills": ["Game Development", "C++", "Backend"],
+      "other_skills": [
+        "Game Programming",
+        "Client/Server",
+        "Git",
+        "qt",
+        "Qt Framework",
+        "Bitbucket",
+        "Jenkins",
+        "PostgreSQL",
+        "Python"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 118
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Qt Framework", "User Interface"],
+      "other_skills": [
+        "Game Programming",
+        "Client/Server",
+        "Git",
+        "qt",
+        "Bitbucket",
+        "Jenkins",
+        "Game Development",
+        "PostgreSQL",
+        "Backend",
+        "Python",
+        "UI/UX",
+        "User Interface Design",
+        "UI/UX Design",
+        "UI Design",
+        "UI",
+        "UX/UI",
+        "QML"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 119
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Microsoft Power BI",
+        "Business Intelligence",
+        "Datenanalyse"
+      ],
+      "other_skills": [
+        "Tableau",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Reporting",
+        "Data Analytics"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 120
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Excel", "Microsoft Power BI", "Forecast"],
+      "other_skills": ["Genesys", "Call Centers", "IT Organisation"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 42000
+    },
+    "_id": 121
+  },
+  {
+    "_source": {
+      "top_skills": ["AWS", "React", "Node.js"],
+      "other_skills": ["Google Cloud Platform (GCP)", "Microsoft Azure"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 122
+  },
+  {
+    "_source": {
+      "top_skills": ["AWS", "React", "Node.js"],
+      "other_skills": ["Google Cloud Platform (GCP)", "Microsoft Azure"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 123
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "SQL"],
+      "other_skills": [
+        "Kubernetes",
+        "Docker",
+        "Data Science",
+        "Machine Learning",
+        "Data Structures",
+        "OOP"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 124
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "HTML", "Git"],
+      "other_skills": [
+        "CSS",
+        "Redux",
+        "Jenkins",
+        "JavaScript",
+        "Linux",
+        "MySQL"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 125
+  },
+  {
+    "_source": {
+      "top_skills": ["Sage 100", "TSQL", "SQL"],
+      "other_skills": ["Visual Studio", "Datenbankadministration"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 126
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "C", "Embedded Linux"],
+      "other_skills": ["Linux", "Embedded Systems", "Git"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 127
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "React", "Team Leadership"],
+      "other_skills": ["Kubernetes", "Spring Boot", "AWS", "Terraform", "Ant"],
+      "seniorities": ["senior"],
+      "max_salary": 110000
+    },
+    "_id": 128
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Software Testing",
+        "Redaktion",
+        "Technische Dokumentation"
+      ],
+      "other_skills": ["Technische Redaktion"],
+      "seniorities": ["none", "junior"],
+      "max_salary": 50000
+    },
+    "_id": 129
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Django"],
+      "other_skills": ["Cloud", "Devops", "Docker", "Kubernetes"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 130
+  },
+  {
+    "_source": {
+      "top_skills": ["AWS", "React", "Node.js"],
+      "other_skills": ["Google Cloud Platform (GCP)", "Microsoft Azure"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 131
+  },
+  {
+    "_source": {
+      "top_skills": ["Webanwendungen", "Software Testing", "Quality Assurance"],
+      "other_skills": [
+        "Jenkins",
+        "Selenium",
+        "Git",
+        "Continuous Integration",
+        "Gradle",
+        "Acceptance Testing"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 132
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "MySQL", "JavaScript"],
+      "other_skills": [
+        "Vue.js",
+        "CI/CD",
+        "Symfony Framework",
+        "Laravel",
+        "Composer",
+        "Git",
+        "Cloud Architecture",
+        "AWS",
+        "SPA",
+        "SQL",
+        "Docker",
+        "CSS",
+        "HTML",
+        "CMS"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 133
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "C#", "Docker"],
+      "other_skills": ["Python"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 134
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "React", "TypeScript"],
+      "other_skills": ["CSS", "HTML5", "GraphQL", "Frontend"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 135
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "MQTT"],
+      "other_skills": [
+        "Docker",
+        "Git",
+        "Kubernetes",
+        "Nosql",
+        "Design Patterns",
+        "Jenkins",
+        "Verteilte Systeme",
+        "Apache Maven",
+        "API Design",
+        "Datenbanken",
+        "Restful Architecture",
+        "Java Spring",
+        "Backend",
+        "Cloud",
+        "Unit Testing",
+        "Microservices"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 136
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Docker", "Oracle PL/SQL"],
+      "other_skills": [
+        "Agile Softwareentwicklung",
+        "Vue.js",
+        "Gitlab",
+        "Jenkins",
+        "Nexus",
+        "Jira",
+        "Scrum",
+        "Spring Boot",
+        "Banking",
+        "Cloud",
+        "Produktentwicklung",
+        "Apache Maven",
+        "JavaScript"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 137
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot"],
+      "other_skills": ["Backend", "UX/UI"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 138
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "Java", "Spring Boot"],
+      "other_skills": ["Angular", "TypeScript", "UX/UI"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 139
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Python", ".NET"],
+      "other_skills": ["IT Consulting"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 140
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "Rest"],
+      "other_skills": ["HTML", "CSS", "GraphQL", "JavaScript", "Linux"],
+      "seniorities": ["senior"],
+      "max_salary": 68000
+    },
+    "_id": 141
+  },
+  {
+    "_source": {
+      "top_skills": ["Java EE", "GraphQL", "Rest"],
+      "other_skills": ["CDI", "JPA", "SQL", "Oracle Database"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 142
+  },
+  {
+    "_source": {
+      "top_skills": ["Java EE", "GraphQL", "Rest"],
+      "other_skills": ["CDI", "JPA", "SQL", "Oracle Database"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 143
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Shopware", "TYPO3"],
+      "other_skills": [
+        "HTML",
+        "JavaScript",
+        "Bootstrap",
+        "Ionic",
+        "Angular",
+        "Design Patterns",
+        "CSS",
+        "MySQL"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 144
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "HTML", "MySQL"],
+      "other_skills": [
+        "TypeScript",
+        "jQuery",
+        "AJAX",
+        "Shopware",
+        "CSS",
+        "TYPO3"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 145
+  },
+  {
+    "_source": {
+      "top_skills": ["UX/UI Design", "Vue.js", "HTML5"],
+      "other_skills": [
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "GraphQL",
+        "Frontend",
+        "Full Stack Development",
+        "Git",
+        "AWS",
+        "Liferay",
+        "Java",
+        "UX Research"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 146
+  },
+  {
+    "_source": {
+      "top_skills": ["UX/UI Design", "Vue.js", "HTML5"],
+      "other_skills": [
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "GraphQL",
+        "Frontend",
+        "Full Stack Development",
+        "Git",
+        "AWS",
+        "Liferay",
+        "Java",
+        "UX Research"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 60000
+    },
+    "_id": 147
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Microservices", "Kubernetes"],
+      "other_skills": [
+        "Spring Boot",
+        "React",
+        "Cloud Anwendungen",
+        "Anwendungsentwicklung",
+        "Kafka",
+        "Angular",
+        "Devops",
+        "Docker",
+        "Apache Kafka",
+        "Cloud",
+        "Cloud Computing",
+        "Backend",
+        "Java Spring",
+        "Full Stack Entwicklung",
+        "AWS"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 148
+  },
+  {
+    "_source": {
+      "top_skills": ["Linux", "SOAP", "Progress 4GL"],
+      "other_skills": [
+        "C#",
+        "SQL",
+        "Activemq",
+        "C++",
+        "Eclipse IDE",
+        "TypeScript",
+        "JavaScript",
+        "Rest",
+        "Datenbankdesign",
+        "Odata",
+        "Oauth",
+        "Git",
+        "IT Security",
+        "Docker"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 149
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "JavaScript"],
+      "other_skills": [
+        "WCF",
+        "Linq",
+        "ASP.NET",
+        "CSS",
+        "HTML",
+        "TypeScript",
+        "jQuery",
+        "Less",
+        "Entity Framework",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "Visual Studio"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 150
+  },
+  {
+    "_source": {
+      "top_skills": ["Java"],
+      "other_skills": [
+        "JPA",
+        "Kafka",
+        "Jenkins",
+        "Kubernetes",
+        "Docker",
+        "Rest API",
+        "CI/CD",
+        "Elasticsearch",
+        "JEE",
+        "Vue.js",
+        "React",
+        "MySQL",
+        "SQL",
+        "Angular",
+        "Git",
+        "Keycloak",
+        "Apache Maven",
+        "MongoDB"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 84000
+    },
+    "_id": 151
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "Express.Js", "React"],
+      "other_skills": ["AWS", "Node.js", "Figma", "CI/CD", "PostgreSQL"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 152
+  },
+  {
+    "_source": {
+      "top_skills": ["IT Consulting", "IT Architektur", "Cloud Architecture"],
+      "other_skills": [
+        "Microsoft Azure",
+        "AWS",
+        "CI/CD",
+        "Datenbankdesign",
+        "Microservices",
+        "Infrastructure as a Service",
+        "Kubernetes",
+        "Docker",
+        "Infrastructure as Code",
+        "Devops",
+        "Platform as a Service",
+        "Python",
+        "Java"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 153
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML", "CSS", "Progress 4GL"],
+      "other_skills": ["Docker", "Java", "C#", ".NET", "Rest", "JSON", "SOAP"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 154
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML", "JavaScript", "CSS"],
+      "other_skills": [
+        "Vue.js",
+        "Web Development",
+        "Shopware",
+        "Magento",
+        "TYPO3"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 155
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "Flask", "API Design"],
+      "other_skills": [
+        "Scrum",
+        "Web Apps",
+        "Python",
+        "CI/CD",
+        "B2B",
+        "B2B Software"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 156
+  },
+  {
+    "_source": {
+      "top_skills": ["Linux", "C", "C++"],
+      "other_skills": ["Boost", "Git"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 157
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Softwareentwicklung"],
+      "other_skills": ["Java Spring", "Automated Testing"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 67000
+    },
+    "_id": 158
+  },
+  {
+    "_source": {
+      "top_skills": ["Java"],
+      "other_skills": ["Apis", "Docker", "MongoDB", "HTML"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 62000
+    },
+    "_id": 159
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML", "CSS", "Frontend"],
+      "other_skills": ["TypeScript", "React", "Apis"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 160
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "GraphQL"],
+      "other_skills": [
+        "Node.js",
+        "Elasticsearch",
+        "Google Cloud Platform (GCP)",
+        "Cloud Applications",
+        "Docker",
+        "API Management",
+        "Rest API",
+        "Microservices",
+        "Gitlab",
+        "Kubernetes",
+        "MongoDB",
+        "PostgreSQL",
+        "Database Architecture",
+        "Apis",
+        "Hubspot"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 161
+  },
+  {
+    "_source": {
+      "top_skills": ["Java"],
+      "other_skills": ["Rest", "Git"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 162
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Anforderungsanalyse",
+        "Business Analyse",
+        "IT Business Analyse"
+      ],
+      "other_skills": [
+        "IT Anforderungsmanagement",
+        "Anforderungsmanagement",
+        "IT Project Management",
+        "Product Owner",
+        "BPMN"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 163
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "UI/UX", "Git"],
+      "other_skills": [
+        "SPA",
+        "UX",
+        "UI",
+        "Frontend",
+        "Angularjs",
+        "Agile Software Development",
+        "Team Leading"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 164
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "ISTQB Foundation Level",
+        "Software Testing",
+        "Test Automation"
+      ],
+      "other_skills": ["Functional Testing"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 165
+  },
+  {
+    "_source": {
+      "top_skills": ["Node.js", "GraphQL", "Elasticsearch"],
+      "other_skills": [
+        "Backend",
+        "TypeScript",
+        "JavaScript",
+        "Database Architecture",
+        "Big Data",
+        "Devops",
+        "Google Cloud Platform (GCP)",
+        "PostgreSQL",
+        "MongoDB",
+        "Python",
+        "Graph Databases",
+        "Web Scraping",
+        "Cloud Applications",
+        "Kubernetes",
+        "Docker",
+        "Data Acquisition",
+        "Data Processing",
+        "ETL",
+        "Server Administration"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 166
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java Spring", "E Commerce"],
+      "other_skills": [
+        "Hibernate",
+        "Fachliche Personalf\u00fchrung",
+        "Team Leading",
+        "IT Prozessoptimierung",
+        "IT Leitung",
+        "Projektmanagement",
+        "Software Architecture",
+        "Technical Leadership"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 110000
+    },
+    "_id": 167
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript"],
+      "other_skills": ["Rest API", "Application Testing", "JavaScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 168
+  },
+  {
+    "_source": {
+      "top_skills": ["Go", "MongoDB"],
+      "other_skills": [
+        "Git",
+        "Microservices",
+        "Rest API",
+        "C",
+        "C++",
+        "Backend",
+        "Rest",
+        "Restful Architecture",
+        "Golang"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 55000
+    },
+    "_id": 169
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "MySQL"],
+      "other_skills": ["Git", "TypeScript", "Angular"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 55000
+    },
+    "_id": 170
+  },
+  {
+    "_source": {
+      "top_skills": ["Vue.js", "Frontend", "TypeScript"],
+      "other_skills": [
+        "jQuery",
+        "Bootstrap",
+        "Git",
+        "UI/UX",
+        "UI Testing",
+        "JSON",
+        "Angular",
+        "React",
+        "Docker",
+        "JavaScript"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 171
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "JavaScript"],
+      "other_skills": [
+        "Web Development",
+        "Figma",
+        "Sketch",
+        "Adobe XD",
+        "Mobile Apps",
+        "Desktop Applications",
+        "Native Apps",
+        "Automated Testing",
+        "Responsive Design",
+        "Performance Optimierung",
+        "Angular",
+        "Vue.js",
+        "Angular 4"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 172
+  },
+  {
+    "_source": {
+      "top_skills": ["Requirements Engineering", "IT Anforderungsmanagement"],
+      "other_skills": [
+        "IBM Doors",
+        "Cpre",
+        "Scrum",
+        "Software Development",
+        "Software Product Management",
+        "IREB",
+        "Jira",
+        "Product Management",
+        "IT Projektmanagement"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 98000
+    },
+    "_id": 173
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "C#", "Angular"],
+      "other_skills": [
+        "WPF",
+        "BDD",
+        "Testautomatisierung",
+        "Docker",
+        "Kubernetes",
+        "Agile Softwareentwicklung",
+        "Scrum",
+        "IT Rollouts",
+        "Code Reviews"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 174
+  },
+  {
+    "_source": {
+      "top_skills": ["Java"],
+      "other_skills": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Apache Wicket",
+        "Git",
+        "Google Cloud Platform (GCP)",
+        "React"
+      ],
+      "seniorities": ["midlevel"],
+      "max_salary": 85000
+    },
+    "_id": 175
+  },
+  {
+    "_source": {
+      "top_skills": ["Kubernetes", "Infrastructure as Code", "Rest API"],
+      "other_skills": [
+        "Middleware",
+        "Saas",
+        "Code Reviews",
+        "Terraform",
+        "AWS",
+        "HTTP",
+        "Scrum",
+        "Devops",
+        "Go",
+        "Java",
+        "PHP",
+        "Cloud Services"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 176
+  },
+  {
+    "_source": {
+      "top_skills": ["Go", "Golang", "Softwareentwicklung"],
+      "other_skills": [
+        "Backend",
+        "Software Architektur",
+        "Rest API",
+        "Relationale Datenbanken"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 65000
+    },
+    "_id": 177
+  },
+  {
+    "_source": {
+      "top_skills": ["C#"],
+      "other_skills": [".NET", "Backend", "MySQL", "MSSQL"],
+      "seniorities": ["senior"],
+      "max_salary": 67000
+    },
+    "_id": 178
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "PostgreSQL", "Angular"],
+      "other_skills": [
+        "JavaScript",
+        "Symfony Framework",
+        "Rest API",
+        "Git",
+        "Docker",
+        "HTML5",
+        "CSS",
+        "AWS"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 179
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Angular", "SQL"],
+      "other_skills": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java Spring",
+        "Kubernetes",
+        "Hibernate",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker",
+        "Spark"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 60000
+    },
+    "_id": 180
+  },
+  {
+    "_source": {
+      "top_skills": ["Neos CMS", "TYPO3"],
+      "other_skills": [
+        "Docker",
+        "Vue.js",
+        "React",
+        "MySQL",
+        "TypeScript",
+        "JSON",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Flow",
+        "Wordpress Entwicklung",
+        "Full Stack Entwicklung",
+        "Gitlab",
+        "TYPO3 Extensions"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 181
+  },
+  {
+    "_source": {
+      "top_skills": ["Web Development", "JTL Wawi", "JTL Shop"],
+      "other_skills": [
+        "Administration",
+        "MySQL",
+        "PHP",
+        "Asana",
+        "HTML",
+        "JavaScript",
+        "E Commerce",
+        "JTL"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 182
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP"],
+      "other_skills": ["Symfony Framework", "Laravel"],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 183
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "HTML", "Ez Publish"],
+      "other_skills": [
+        "Symfony Framework",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "Node.js",
+        "TypeScript"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 184
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "TypeScript", "React"],
+      "other_skills": ["Vue.js", "Angular"],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 185
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "WPF"],
+      "other_skills": ["Xamarin", "Webserver", "Webentwicklung", ".NET"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 186
+  },
+  {
+    "_source": {
+      "top_skills": ["Web Development", "React", "Product Owner"],
+      "other_skills": [
+        "Frontend",
+        "Angular",
+        "Vue.js",
+        "Product Development",
+        "Redux",
+        "Git",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 187
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "React", "Java Spring"],
+      "other_skills": [
+        "Clean Code Development",
+        "Web Technologien",
+        "Code Reviews",
+        "Pair Programming",
+        "Apache Tomcat",
+        "Node.js",
+        "Rest",
+        "Docker"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 188
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "JavaScript", "Angular"],
+      "other_skills": ["SCSS"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 189
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Git", "C"],
+      "other_skills": ["IoT", "Deep Learning"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 190
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "CI/CD", "Artificial Intelligence"],
+      "other_skills": [
+        "Java",
+        "JavaScript",
+        "AWS",
+        "Microsoft Azure",
+        "Git",
+        "Jenkins",
+        "React",
+        "Angular",
+        "K\u00fcnstliche Intelligenz",
+        "AI"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 191
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Golang", "Rest API"],
+      "other_skills": [
+        "Docker",
+        "BPMN",
+        "Winforms",
+        "AWS",
+        "Gitlab",
+        "Backend",
+        "Terraform",
+        ".NET",
+        "Relationale Datenbanken",
+        "MySQL"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 65000
+    },
+    "_id": 192
+  },
+  {
+    "_source": {
+      "top_skills": ["Laravel", "PHP"],
+      "other_skills": [
+        "GitHub",
+        "Rest API",
+        "MySQL",
+        "Apache",
+        "Node.js",
+        "Backend"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 193
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "MySQL", "TypeScript"],
+      "other_skills": ["AWS", "Docker", "React"],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 194
+  },
+  {
+    "_source": {
+      "top_skills": ["Java"],
+      "other_skills": ["Apis", "Webservices", "ORM"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 195
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Architektur"],
+      "other_skills": [
+        "Java EE",
+        "Java Spring",
+        "Angular",
+        "Rest",
+        "Software Architecture"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 196
+  },
+  {
+    "_source": {
+      "top_skills": ["Ruby", "Ruby on Rails", "GraphQL"],
+      "other_skills": [
+        "Agile Entwicklungsprozesse",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 87000
+    },
+    "_id": 197
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "Node.js", "Vue.js"],
+      "other_skills": [
+        "JavaScript",
+        "Flutter",
+        "Dart",
+        "Kotlin",
+        "HTML5",
+        "CSS",
+        "Google Cloud Platform (GCP)",
+        "Docker",
+        "GitHub",
+        "Redis",
+        "Kubernetes",
+        "Firebase"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 115000
+    },
+    "_id": 198
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "Data Analysis", "Data Engineering"],
+      "other_skills": [
+        "Pandas",
+        "Data Science",
+        "Data Warehousing",
+        "Big Data",
+        "Microsoft Power BI",
+        "Tableau",
+        "Google Cloud Platform (GCP)",
+        "Firebase",
+        "Node.js",
+        "Python"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 199
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "TypeScript", "Vue.js"],
+      "other_skills": [
+        "CSS",
+        "HTML5",
+        "Swift",
+        "Kotlin",
+        "Node.js",
+        "Flutter",
+        "Dart",
+        "Google Cloud Platform (GCP)",
+        "Docker",
+        "GitHub",
+        "Redis",
+        "Kubernetes",
+        "Firebase"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 200
+  },
+  {
+    "_source": {
+      "top_skills": ["Node.js", "React", "Software Architecture"],
+      "other_skills": ["SQL", "JavaScript", "Ruby", "Python", "Angular"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 201
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Warehousing", "Data Engineering", "Data Analytics"],
+      "other_skills": [
+        "Data Mining",
+        "Data Analysis",
+        "Data Science",
+        "SQL",
+        "Microsoft Azure",
+        "Data Vault 2.0",
+        "ETL",
+        "Data Visualization",
+        "Microsoft Power BI",
+        "Tableau",
+        "Data Vault",
+        "Business Intelligence"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 202
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "MySQL", "Symfony Framework"],
+      "other_skills": [
+        "Git",
+        "Pimcore",
+        "Docker",
+        "Clean Code Development",
+        "Web Security",
+        "JavaScript",
+        "Backend",
+        "Full Stack Development",
+        "CSS",
+        "HTML",
+        "TYPO3",
+        "Shopware",
+        "Moodle",
+        "Gitlab",
+        "Elasticsearch",
+        "Kubernetes",
+        "Codeception"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 57000
+    },
+    "_id": 203
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Softwareentwicklung"],
+      "other_skills": ["Java Spring", "Automated Testing"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 204
+  },
+  {
+    "_source": {
+      "top_skills": ["System Testing", "ISTQB", "Testmanagement"],
+      "other_skills": [
+        "Computer System Validierung",
+        "Testautomatisierung",
+        "Netzwerke",
+        "Testplanung",
+        "Java",
+        "C",
+        "C++",
+        "Jira",
+        "X RAY",
+        "Qualit\u00e4tsmanagement",
+        "OpenStack",
+        "System Validation",
+        "Software Validation"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 205
+  },
+  {
+    "_source": {
+      "top_skills": ["Ruby", "Ruby on Rails"],
+      "other_skills": ["JavaScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 206
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Relationale Datenbanken"],
+      "other_skills": [
+        "Git",
+        "Jenkins",
+        "Scrum",
+        "Microservices",
+        "Sonarqube",
+        "TDD",
+        "Clean Code Development",
+        "Continuous Integration",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Devops",
+        "SQL",
+        "JUnit"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 207
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Rest API", "SOAP"],
+      "other_skills": [
+        "JUnit",
+        "Mockito",
+        "Devops",
+        "Agile Methoden",
+        "Eclipse IDE",
+        "Eclipse RCP",
+        "Git",
+        "Microsoft Azure"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 208
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "GraphQL"],
+      "other_skills": [
+        "Microservices",
+        "Cloud Applications",
+        "Google Cloud Platform (GCP)",
+        "Apis",
+        "Hubspot",
+        "Node.js",
+        "Elasticsearch",
+        "Docker",
+        "API Management",
+        "Rest API",
+        "Gitlab",
+        "Kubernetes",
+        "MongoDB",
+        "PostgreSQL",
+        "Database Architecture"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 209
+  },
+  {
+    "_source": {
+      "top_skills": ["Jira", "JavaScript", "Node.js"],
+      "other_skills": ["PHP", "Scrum", "Angular", "HTML"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 210
+  },
+  {
+    "_source": {
+      "top_skills": ["Laravel", "PHP"],
+      "other_skills": ["GitHub", "Rest API", "MySQL", "Apache", "Node.js"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 211
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "C#", "Clean Code Development"],
+      "other_skills": ["Refactoring", "Windows Clients"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 212
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "Design Patterns", "Rest API"],
+      "other_skills": [
+        "GraphQL",
+        "CSS",
+        "TypeScript",
+        "HTML",
+        "Relationale Datenbanken",
+        "Saas",
+        "Datenmodellierung",
+        "Restful Architecture"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 213
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL"],
+      "other_skills": ["Qlik"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 214
+  },
+  {
+    "_source": {
+      "top_skills": ["Technical Leadership"],
+      "other_skills": [
+        "Android",
+        "Java",
+        "Devops",
+        "C#",
+        "TypeScript",
+        ".NET",
+        "React"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 100000
+    },
+    "_id": 215
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Warehousing", "Datenmodellierung", "SQL"],
+      "other_skills": [
+        "Python",
+        "ETL",
+        "ELT",
+        "Terraform",
+        "Data Vault",
+        "Informatica Powercenter",
+        "Google Cloud Platform (GCP)",
+        "Data Engineering",
+        "Microsoft Azure",
+        "Java",
+        "Git"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 216
+  },
+  {
+    "_source": {
+      "top_skills": ["MSSQL", ".NET"],
+      "other_skills": ["2nd Level Support", "IT Support"],
+      "seniorities": ["junior"],
+      "max_salary": 55000
+    },
+    "_id": 217
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "React"],
+      "other_skills": [
+        "TypeScript",
+        "Spring Boot",
+        "SQL",
+        "MySQL",
+        "Git",
+        "OpenShift",
+        "Agile Softwareentwicklung",
+        "Scrum"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 218
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Software Architecture",
+        "Python",
+        "Open Source Development"
+      ],
+      "other_skills": [
+        "Schema",
+        "API Design",
+        "Data Warehousing",
+        "CI/CD",
+        "Unit Testing",
+        "SQL",
+        "Kubernetes",
+        "Product Development",
+        "IT Projektmanagement",
+        "Consulting",
+        "Big Data",
+        "Artificial Intelligence",
+        "Git",
+        "Agile Softwareentwicklung",
+        "Databases",
+        "Distributed Systems",
+        "Data Engineering",
+        "Pipelines"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 219
+  },
+  {
+    "_source": {
+      "top_skills": ["AWS", "C#", "Spring Boot"],
+      "other_skills": [
+        "JavaScript",
+        "Angular",
+        "Flutter",
+        "SCSS",
+        "Node.js",
+        "SQL",
+        "Docker",
+        "Google Cloud Platform (GCP)",
+        "Full Stack Development",
+        "Rest API",
+        "Hibernate",
+        "Entity Framework",
+        "MySQL",
+        "MariaDB",
+        "Web Development",
+        "React",
+        "Java",
+        "MSSQL",
+        "PostgreSQL",
+        "Microsoft Azure"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 53000
+    },
+    "_id": 220
+  },
+  {
+    "_source": {
+      "top_skills": ["SAPUI5", "ABAP", "JavaScript"],
+      "other_skills": ["HTML5", "Rest API", "Clean Code Development"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 221
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Data Science", "Banking"],
+      "other_skills": [
+        "SQL",
+        "AI",
+        "Artificial Intelligence",
+        "Data Analysis",
+        "Data Engineering",
+        "Numpy",
+        "Pandas",
+        "Machine Learning"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 222
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Python", "Git"],
+      "other_skills": ["Linux", "Docker", "Robotics", "Jenkins"],
+      "seniorities": ["senior"],
+      "max_salary": 75000
+    },
+    "_id": 223
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Android", "Kotlin"],
+      "other_skills": [
+        "Android Studio",
+        "React",
+        "Websockets",
+        "Rest",
+        "JSON",
+        "XML",
+        "React Native"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 224
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "React", "Node.js"],
+      "other_skills": [
+        "Redux",
+        "JavaScript",
+        "Webpack",
+        "Restful Webservices",
+        "Apis"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 225
+  },
+  {
+    "_source": {
+      "top_skills": ["Testkonzeption", "Systemtests", "Abnahme Test"],
+      "other_skills": [
+        "Test Automation",
+        "Testfallerstellung",
+        "Ranorex",
+        "Linux",
+        "Android",
+        "X RAY",
+        "Jira",
+        "Routing",
+        "IT Sicherheit",
+        "VOIP",
+        "Wifi",
+        "4G",
+        "5G",
+        "Confluence",
+        "Visio",
+        "CI/CD",
+        "Rest API"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 226
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Java Servlets"],
+      "other_skills": [
+        "JSP",
+        "Apache Tomcat",
+        "Apache Maven",
+        "Gitlab",
+        "TSQL",
+        "JavaScript",
+        "jQuery",
+        "Kendo UI",
+        "JPA",
+        "SOAP",
+        "Rest API",
+        "Swagger",
+        "Kanban"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 227
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Python",
+        "Agile Entwicklungsmethoden",
+        "Agile Softwareentwicklung"
+      ],
+      "other_skills": [
+        "Algorithmen",
+        "Finanzwesen",
+        "Mathematik",
+        "Data Modeling",
+        "Software Architecture",
+        "Software Architektur",
+        "Pandas",
+        "Pycharm",
+        "Agile Software Development"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 228
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "Mobile Development"],
+      "other_skills": [
+        "TypeScript",
+        "End to End Testing",
+        "CSS",
+        "Hybrid Apps",
+        "iOS",
+        "Ionic",
+        "Android",
+        "Scrum",
+        "CI/CD",
+        "Git",
+        "Cordova"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 229
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Datenmodellierung",
+        "Prozessautomatisierung",
+        "Prozessdigitalisierung"
+      ],
+      "other_skills": [
+        "Data Science",
+        "Data Analytics",
+        "Software Architecture",
+        "Softwarekonzeption",
+        "Requirements Engineering"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 230
+  },
+  {
+    "_source": {
+      "top_skills": ["Linux", "Android", "Testplanung"],
+      "other_skills": [
+        "Firewalls",
+        "Wifi",
+        "DNS",
+        "DHCP",
+        "IPv6",
+        "IPv4",
+        "Jira",
+        "Confluence",
+        "X RAY",
+        "Wireshark",
+        "Systemtests",
+        "Integrationstest",
+        "Testdokumentation",
+        "Software Testing",
+        "Rest API",
+        "Testanalyse"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 77000
+    },
+    "_id": 231
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Vaadin", "Kotlin"],
+      "other_skills": ["Git", "Gradle"],
+      "seniorities": ["none", "junior"],
+      "max_salary": 66000
+    },
+    "_id": 232
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Azure", "Devops", "Team Leading"],
+      "other_skills": ["CI/CD", "C#", "Scrum"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 233
+  },
+  {
+    "_source": {
+      "top_skills": ["React Native"],
+      "other_skills": [
+        "Requirements Analysis",
+        "UX/UI",
+        "Android Development",
+        "APP Development",
+        "iOS Development"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 234
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Selenium",
+        "Software Qualit\u00e4tssicherung",
+        "Software Testing"
+      ],
+      "other_skills": [
+        "Testautomatisierung",
+        "Manual Testing",
+        "Agile Software Development",
+        "E Commerce",
+        "User Stories"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 235
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Analysis", "E Commerce", "Process Analysis"],
+      "other_skills": [
+        "Process Optimization",
+        "Business Intelligence",
+        "Process Management"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 236
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "Clean Code Development"],
+      "other_skills": [
+        "Domain Driven Design",
+        "Visual Studio",
+        "Azure DevOps",
+        "SQL",
+        "iOS Development",
+        "Android Development"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 75000
+    },
+    "_id": 237
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "AWS", "JavaScript"],
+      "other_skills": [
+        "Node.js",
+        "NestJS",
+        "Flask",
+        "TypeScript",
+        "Kubernetes",
+        "Microservices",
+        "Terraform",
+        "Devops",
+        "Docker",
+        "Django"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 238
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Team Leading", "Xamarin"],
+      "other_skills": ["JavaScript", "HTML", ".NET", "SQL"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 95000
+    },
+    "_id": 239
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Power BI", "Microsoft Excel", "SQL"],
+      "other_skills": [
+        "Tableau",
+        "Pentaho Data Integration",
+        "Python",
+        "Business Intelligence",
+        "Finance",
+        "Corporate Finance"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 65000
+    },
+    "_id": 240
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Power BI", "Microsoft Excel", "SQL"],
+      "other_skills": [
+        "Tableau",
+        "Pentaho Data Integration",
+        "Python",
+        "Business Intelligence",
+        "Data Visualization",
+        "Business Analysis"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 241
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "React"],
+      "other_skills": [
+        "TypeScript",
+        "Cloud",
+        "Microservices",
+        "AWS",
+        "Continuous Integration",
+        "DynamoDB",
+        "Docker",
+        "Container"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 88000
+    },
+    "_id": 242
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Customer Support", "Project Management"],
+      "other_skills": ["Android", "Kotlin", "Java"],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 243
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Django", "PostgreSQL"],
+      "other_skills": [
+        "Docker",
+        "Rest API",
+        "Git",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "Google Cloud Platform (GCP)"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 95000
+    },
+    "_id": 244
+  },
+  {
+    "_source": {
+      "top_skills": ["Flutter", "React", "Swift"],
+      "other_skills": ["Git", "Angular"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 245
+  },
+  {
+    "_source": {
+      "top_skills": ["Teamleitung", "IT Infrastructure", "IT Infrastruktur"],
+      "other_skills": [
+        "Team Leading",
+        "IT Projektmanagement",
+        "ITIL",
+        "PMP",
+        "IT Service Management",
+        "SLA"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 246
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Agile Softwareentwicklung",
+        "Technische Beratung",
+        "Workshops"
+      ],
+      "other_skills": [
+        "Softwareentwicklung",
+        "IT Beratung",
+        "Software Architektur",
+        "Agile Entwicklungsmethoden",
+        "Entwicklungsmethodik",
+        "C#",
+        ".NET"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 247
+  },
+  {
+    "_source": {
+      "top_skills": ["Agile Softwareentwicklung", "B2B", "Softwarekonzeption"],
+      "other_skills": [
+        "Software Architecture",
+        "Softwareentwicklung",
+        "Clean Code Development",
+        "Software Engineering",
+        "C#",
+        ".NET"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 248
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "CSS", "HTTP"],
+      "other_skills": ["Spring MVC", "HTML", "Python", "Ruby"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 249
+  },
+  {
+    "_source": {
+      "top_skills": ["ERP", "C#", "Customer Support"],
+      "other_skills": [
+        "B2B",
+        "ERP Software",
+        "Logistik",
+        "Produktionsplanung",
+        "Python",
+        ".NET",
+        "B2B Kommunikation",
+        "Kundenbetreuung"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 55000
+    },
+    "_id": 250
+  },
+  {
+    "_source": {
+      "top_skills": ["Linux", "C++", ".NET"],
+      "other_skills": ["Python", "Android", "AI"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 251
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML5", "CSS", "JavaScript"],
+      "other_skills": ["XML", "SQL"],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 252
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Kundenbeziehungen",
+        "IT Infrastruktur",
+        "Business Strategy"
+      ],
+      "other_skills": [
+        "Personalplanung",
+        "Disziplinarische F\u00fchrung",
+        "PRINCE2",
+        "Scrum",
+        "IT Dienstleistungen",
+        "Disposition",
+        "Projektcontrolling"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 253
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "CSS", "HTTP"],
+      "other_skills": ["Spring MVC", "HTML", "Python", "Ruby"],
+      "seniorities": ["junior"],
+      "max_salary": 70000
+    },
+    "_id": 254
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Netzwerkadministration",
+        "IT Security",
+        "Technische Kundenberatung"
+      ],
+      "other_skills": [
+        "Disziplinarische Mitarbeiterf\u00fchrung",
+        "IT Beratung",
+        "Projektmanagement",
+        "Cisco",
+        "IT Infrastruktur",
+        "Lancom",
+        "Fortinet",
+        "Datenschutz",
+        "SDN",
+        "Systemadministration"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 255
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "Angular", "Design Patterns"],
+      "other_skills": [
+        "HTML5",
+        "Sass",
+        "Git",
+        "CI/CD",
+        "NPM",
+        "Apis",
+        "Docker",
+        "Node.js",
+        "Coding Standards"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 256
+  },
+  {
+    "_source": {
+      "top_skills": ["Kotlin", "Android Entwicklung", "Android"],
+      "other_skills": ["Android Development", "Mobile Development"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 257
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "Selenium", "Appium"],
+      "other_skills": ["JavaScript", "Test Automation", "Automation Testing"],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 258
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "iOS Development",
+        "Android Development",
+        "Software Architecture"
+      ],
+      "other_skills": [
+        "Performance Optimization",
+        "Software Testing",
+        "Backend"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 110000
+    },
+    "_id": 259
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "SQL"],
+      "other_skills": ["JPA", "Hibernate", "Kotlin", "React", "TypeScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 260
+  },
+  {
+    "_source": {
+      "top_skills": ["BI", "ETL", "SQL"],
+      "other_skills": [
+        "Business Intelligence",
+        "Data Warehousing",
+        "Data Engineering"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 261
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Symfony Framework", "Design Patterns"],
+      "other_skills": [
+        "MySQL",
+        "HTML5",
+        "Sass",
+        "Git",
+        "CI/CD",
+        "Composer",
+        "Docker",
+        "Apis",
+        "Node.js",
+        "Coding Standards",
+        "Secure Coding"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 262
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "TypeScript", "Python"],
+      "other_skills": ["React", "Angular", "Golang"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 76000
+    },
+    "_id": 263
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "JavaScript"],
+      "other_skills": ["CSS", "HTML", "Java"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 264
+  },
+  {
+    "_source": {
+      "top_skills": ["Banking", "Business Analysis", "Financial Analysis"],
+      "other_skills": ["Finance", "Softwareentwicklung", "Testfallerstellung"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 95000
+    },
+    "_id": 265
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Python", "TypeScript"],
+      "other_skills": [
+        "Kubernetes",
+        "Agile Methoden",
+        "React",
+        "Angular",
+        "IT Projektmanagement",
+        "Projektmanagement",
+        "Agiles Projektmanagement",
+        "Kommunikation"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 94000
+    },
+    "_id": 266
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "IT Consulting",
+        "Anforderungsmanagement",
+        "IT Anforderungsmanagement"
+      ],
+      "other_skills": [
+        "Anforderungsanalyse",
+        "Software Engineering",
+        "Enterprise Software",
+        "Java",
+        "TypeScript",
+        "Angular",
+        "React",
+        "Python",
+        "Software Architektur",
+        "Agile Softwareentwicklung",
+        "Requirements Engineering"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 115000
+    },
+    "_id": 267
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Python"],
+      "other_skills": [
+        "Kubernetes",
+        "Agile Methoden",
+        "React",
+        "Angular",
+        "IT Projektmanagement",
+        "Projektmanagement",
+        "Agiles Projektmanagement",
+        "Kommunikation",
+        "IT Anforderungsmanagement",
+        "Anforderungsanalyse",
+        "Requirements Engineering",
+        "TypeScript"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 94000
+    },
+    "_id": 268
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "JavaScript", "MySQL"],
+      "other_skills": [
+        "HTML",
+        "Rest API",
+        "SQL",
+        "CSS",
+        "Linux",
+        "Git",
+        "Bootstrap",
+        "HTML5",
+        "Vue.js",
+        "Symfony Framework",
+        "Phpunit",
+        "Docker"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 45000
+    },
+    "_id": 269
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Release Management",
+        "Projektmanagement",
+        "Qualit\u00e4tsmanagement"
+      ],
+      "other_skills": [
+        "Releaseplanung",
+        "Software Release",
+        "Releasewechsel",
+        "Versionsverwaltung",
+        "Softwarel\u00f6sungen",
+        "IT Plattformen",
+        "Priorisierung",
+        "IT Risikomanagement",
+        "Softwareentwicklungsprozesse",
+        "Prozessoptimierung",
+        "IT Prozessmanagement",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 270
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "Next.js", "Bootstrap"],
+      "other_skills": [
+        "CSS",
+        "HTML",
+        "Solid",
+        "Code Reviews",
+        "Entwicklungsprozesse",
+        "Responsive Web",
+        "Unit Testing",
+        "Integration Testing"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 58000
+    },
+    "_id": 271
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "MySQL", "JavaScript"],
+      "other_skills": [
+        "Angular",
+        "TypeScript",
+        "Go",
+        "Laravel",
+        "Ionic",
+        "Git",
+        "Elasticsearch",
+        "Bootstrap",
+        "Redis",
+        "Docker"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 272
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "IT Projektmanagement",
+        "IT Projektarbeit",
+        "IT Architektur"
+      ],
+      "other_skills": ["IT Prozesse", "Software Architektur"],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 78000
+    },
+    "_id": 273
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Quality Assurance",
+        "Integration Testing",
+        "Process Optimization"
+      ],
+      "other_skills": ["Acceptance Testing", "Software Development"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 274
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Engineering", "Business Intelligence", "SQL"],
+      "other_skills": [
+        "Python",
+        "Java",
+        "Scala",
+        "AWS",
+        "Query",
+        "Microsoft Azure",
+        "Google Cloud Platform (GCP)",
+        "BI"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 275
+  },
+  {
+    "_source": {
+      "top_skills": ["Testautomatisierung", "Quality Assurance", "CI/CD"],
+      "other_skills": [
+        "Agile Softwareentwicklung",
+        "QA Management",
+        "Software Testing",
+        "Software Quality Assurance"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 276
+  },
+  {
+    "_source": {
+      "top_skills": ["NestJS", "Microsoft Azure", "TypeScript"],
+      "other_skills": ["CSS", "Vue.js", "IoT", "HTML"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 277
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Testmanagement",
+        "SAP Solution Manager",
+        "Testautomatisierung"
+      ],
+      "other_skills": [
+        "Tosca",
+        "UFT",
+        "ISTQB",
+        "ISTQB Test Manager",
+        "Selenium",
+        "Regression Testing",
+        "Manual Testing",
+        "Unit Testing",
+        "SAP",
+        "IT Testmanagement",
+        "Jira",
+        "Software Testing",
+        "SAP Solutions",
+        "Test Automation"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 278
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Symfony Framework", "Laravel"],
+      "other_skills": ["Git"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 279
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "SOAP", "Rest"],
+      "other_skills": ["Quarkus", "Datenbanken", "Container"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 280
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Angular", "JavaScript"],
+      "other_skills": [
+        "Spring Boot",
+        "Apache Maven",
+        "Oracle",
+        "Wildfly",
+        "IBM Websphere",
+        "Intellij Idea",
+        "Git",
+        "C++",
+        "Azure DevOps"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 281
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Dynamics 365", ".NET", "Microsoft Azure"],
+      "other_skills": [
+        "Plugins",
+        "Workflows",
+        "CRM Consulting",
+        "Scrum",
+        "Requirements Engineering",
+        "JavaScript",
+        "CI/CD",
+        "Devops",
+        "Microsoft SQL Server",
+        "Continuous Integration",
+        "Continuous Deployment",
+        "Microsoft Power BI",
+        "Dynamics 365"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 282
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Dynamics 365", ".NET", "Microsoft Azure"],
+      "other_skills": [
+        "Plugins",
+        "Workflows",
+        "CRM Consulting",
+        "Scrum",
+        "Requirements Engineering",
+        "JavaScript",
+        "CI/CD",
+        "Devops",
+        "Microsoft SQL Server",
+        "Continuous Integration",
+        "Continuous Deployment",
+        "Microsoft Power BI",
+        "Dynamics 365"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 283
+  },
+  {
+    "_source": {
+      "top_skills": ["Flutter", "Dart", "Cross Platform Development"],
+      "other_skills": ["Git", "Agile Softwareentwicklung"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 284
+  },
+  {
+    "_source": {
+      "top_skills": ["TYPO3 Entwicklung", "PHP", "MySQL"],
+      "other_skills": ["TYPO3", "JavaScript", "HTML", "Git", "HTML5", "CSS"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 58000
+    },
+    "_id": 285
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "Python", "Data Engineering"],
+      "other_skills": ["Microsoft Power BI", "Google Cloud Platform (GCP)"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 286
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Nosql", "JavaScript"],
+      "other_skills": [
+        "MongoDB",
+        "Elasticsearch",
+        "GitHub",
+        "Intellij",
+        "HTML5",
+        "CSS",
+        "JSON",
+        "Docker"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 65000
+    },
+    "_id": 287
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML", "JavaScript", "CSS"],
+      "other_skills": [
+        "Vue.js",
+        "Web Development",
+        "Shopware",
+        "Magento",
+        "TYPO3"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 63000
+    },
+    "_id": 288
+  },
+  {
+    "_source": {
+      "top_skills": ["Frontend", "Shopware", "HTML"],
+      "other_skills": [
+        "JavaScript",
+        "Bootstrap",
+        "SCSS",
+        "Twig",
+        "Git",
+        "Jira",
+        "Confluence",
+        "Shopware 5",
+        "Magento",
+        "Vue.js",
+        "Docker",
+        "HTML5",
+        "CSS",
+        "Angular",
+        "Smarty",
+        "Shopify"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 289
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "PHP", "Rest API"],
+      "other_skills": [
+        "JavaScript",
+        "Bootstrap",
+        "SCSS",
+        "Twig",
+        "Git",
+        "Jira",
+        "Confluence",
+        "Shopware 5",
+        "Magento",
+        "Vue.js",
+        "Devops",
+        "Docker",
+        "MySQL"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 66000
+    },
+    "_id": 290
+  },
+  {
+    "_source": {
+      "top_skills": ["Kotlin", "Microsoft Azure", "Software Architecture"],
+      "other_skills": [
+        "Go",
+        "C++",
+        "Rust",
+        "C#",
+        ".NET",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Ansible",
+        "Terraform",
+        "GitHub",
+        "Gitlab",
+        "TDD",
+        "Clean Code Development",
+        "Rest",
+        "Microservices",
+        "Java Spring"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 95000
+    },
+    "_id": 291
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Agile Testing", "Test Management"],
+      "other_skills": ["ISTQB"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 292
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Software Testing",
+        "Agile Testing",
+        "Testautomatisierung"
+      ],
+      "other_skills": [
+        "ISTQB",
+        "Selenium",
+        "Playframework",
+        "Python",
+        "Frontend",
+        "Backend",
+        "Java"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 293
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Java", "Testautomatisierung"],
+      "other_skills": [
+        "Test Design",
+        "Unit Testing",
+        "Integration Testing",
+        "Regressionstest",
+        "Performance Testing",
+        "Test Cases",
+        "Agile Methoden",
+        "Software Release",
+        "Agile Softwareentwicklung",
+        "Java Spring",
+        "Acceptance Testing",
+        "API Testing",
+        "Agile Entwicklungsmethoden",
+        "Design Patterns"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 294
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "PHP", "Symfony Framework"],
+      "other_skills": ["Datenbanken", "Composer", "Git", "Phpunit"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 295
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Visualization", "Datenvisualisierung", "Grafana"],
+      "other_skills": ["Node.js", "Data Analysis", "Dashboards"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 296
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Pycharm", "Pandas"],
+      "other_skills": [
+        "Mathematics",
+        "Mathematische Modellierung",
+        "Financial Modelling"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 297
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Terraform"],
+      "other_skills": [
+        "Apache Maven",
+        "Gitlab",
+        "SQL",
+        "GraphQL",
+        "Java Spring",
+        "Microservices"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 298
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML", "CSS", "JavaScript"],
+      "other_skills": [
+        "Angular",
+        "React",
+        "Deployment Management",
+        "Release Management",
+        "HTTP",
+        "Rest",
+        "UI/UX"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 75000
+    },
+    "_id": 299
+  },
+  {
+    "_source": {
+      "top_skills": ["Vue.js", "JavaScript", "React"],
+      "other_skills": ["HTML5", "CSS", "UI/UX", "Angularjs", "Angular"],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 300
+  },
+  {
+    "_source": {
+      "top_skills": ["Oracle Apex", "Oracle", "Softwareentwicklung"],
+      "other_skills": ["jQuery", "HTML", "CSS", "AJAX", "SQL"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 45000
+    },
+    "_id": 301
+  },
+  {
+    "_source": {
+      "top_skills": ["Symfony Framework"],
+      "other_skills": [
+        "User Stories",
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "Magento",
+        "Design Patterns",
+        "Software Architecture",
+        "Shopware"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 302
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "Algorithms"],
+      "other_skills": [
+        "Django",
+        "Scipy",
+        "Software Design",
+        "AWS",
+        "Pandas",
+        "Numpy",
+        "Data Engineering",
+        "Data Science"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 303
+  },
+  {
+    "_source": {
+      "top_skills": ["Adobe Analytics", "Tag Management", "Google Analytics"],
+      "other_skills": [
+        "Google Tag Manager",
+        "Data Driven Marketing",
+        "Customer Journey Management",
+        "Conversion Optimierung",
+        "Marketing Automation",
+        "Analytics",
+        "Data Analysis",
+        "Conversion Tracking",
+        "Kampagnen Tracking",
+        "Customer Journey",
+        "Datenvisualisierung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 91000
+    },
+    "_id": 304
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "Ruby on Rails"],
+      "other_skills": ["JavaScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 305
+  },
+  {
+    "_source": {
+      "top_skills": ["IT Consulting", "Datenintegration", "Datenbanken"],
+      "other_skills": [
+        "Big Data",
+        "SQL",
+        "Data Analysis",
+        "Java",
+        "AWS",
+        "Google Cloud Platform (GCP)",
+        "Oracle",
+        "Datenmodellierung",
+        "Scala",
+        "Anforderungsanalyse",
+        "IT Konzeption",
+        "Python",
+        "Microsoft Azure",
+        "Data Integration"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 306
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Microservices"],
+      "other_skills": [
+        "Consulting",
+        "Solution Architecture",
+        "Shell Scripting",
+        "AWS",
+        "Domain Driven Design",
+        "Event Driven Architecture",
+        "CI/CD",
+        "Relational Databases",
+        "Software Engineering",
+        "Apache Kafka"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 95000
+    },
+    "_id": 307
+  },
+  {
+    "_source": {
+      "top_skills": ["Golang", "Kubernetes", "Microservices"],
+      "other_skills": ["Git"],
+      "seniorities": ["senior"],
+      "max_salary": 95000
+    },
+    "_id": 308
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "AWS", "JSON"],
+      "other_skills": ["Java", "Python", "TypeScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 309
+  },
+  {
+    "_source": {
+      "top_skills": ["IT Consulting", "Datenintegration", "Datenbanken"],
+      "other_skills": [
+        "Data Engineering",
+        "Big Data",
+        "SQL",
+        "Data Analysis",
+        "Java",
+        "AWS",
+        "Google Cloud Platform (GCP)",
+        "Oracle",
+        "Datenmodellierung",
+        "Scala",
+        "Anforderungsanalyse",
+        "IT Konzeption",
+        "Python",
+        "Microsoft Azure",
+        "Data Integration",
+        "ETL",
+        "Business Intelligence",
+        "Data Analytics",
+        "Microsoft Power BI",
+        "Informatica Powercenter"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 310
+  },
+  {
+    "_source": {
+      "top_skills": ["Agile Software Development", "Teamleitung", "Cloud"],
+      "other_skills": [
+        "AWS",
+        "Mobile Software",
+        "Microsoft Azure",
+        "Devops",
+        "Team Building",
+        "CI/CD",
+        "Saas",
+        "Agile Transformation",
+        "Servant Leadership",
+        "Scrum",
+        "Agile Softwareentwicklung",
+        "Agile Entwicklungsmethoden",
+        "Software Development",
+        "Softwareentwicklung",
+        "People Development"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 95000
+    },
+    "_id": 311
+  },
+  {
+    "_source": {
+      "top_skills": ["Drupal", "Unix", "Laravel"],
+      "other_skills": ["PHP", "Docker", "Kubernetes", "Go", "Rest", "JSON"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 312
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "SQL", "Qt Framework"],
+      "other_skills": ["Git", "Certified Scrum Master", "Linux"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 313
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Azure", "Linux", "Devops"],
+      "other_skills": ["AWS", "CPC", "Angular"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 314
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Automation Testing",
+        "Microsoft Power BI",
+        "Software Testing"
+      ],
+      "other_skills": [
+        "Test Automation",
+        "Regression Testing",
+        "Azure DevOps",
+        "Manual Testing",
+        "Quality Assurance",
+        "Scrum",
+        "Agile Testing",
+        "ISTQB"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 315
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "Apache Spark", "Process Mining"],
+      "other_skills": [
+        "SAP ERP",
+        "Data Engineering",
+        "Python",
+        "Microsoft Power BI",
+        "Git",
+        "Data Warehousing",
+        "Consulting",
+        "Microsoft Azure",
+        "Business Intelligence"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 316
+  },
+  {
+    "_source": {
+      "top_skills": ["SQL", "Business Intelligence", "Apache Spark"],
+      "other_skills": [
+        "SAP ERP",
+        "Process Mining",
+        "Data Engineering",
+        "Python",
+        "AWS",
+        "Tableau",
+        "Git",
+        "Data Warehousing",
+        "Consulting"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 317
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Microsoft Office",
+        "Prozessoptimierung",
+        "Formularentwicklung"
+      ],
+      "other_skills": [
+        "Anwendungsbetreuung",
+        "Applikationsentwicklung",
+        "Applikation Customizing",
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 50000
+    },
+    "_id": 318
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Java Spring"],
+      "other_skills": ["Apache Maven", "Gitlab", "SQL", "GraphQL"],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 319
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Engineering", "Platform as a Service", "Big Data"],
+      "other_skills": [
+        "Architecture",
+        "Data Integration",
+        "Google Cloud Platform (GCP)",
+        "AWS",
+        "Python",
+        "Data Warehousing",
+        "Kubernetes",
+        "ETL",
+        "SQL",
+        "Spark",
+        "Data Lake",
+        "Docker",
+        "Git",
+        "Apache Spark",
+        "Apache Kafka",
+        "Microsoft Azure"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 95000
+    },
+    "_id": 320
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "Clean Code Development"],
+      "other_skills": [
+        "Rendering",
+        "Hosting",
+        "Microsoft Azure",
+        "AWS",
+        "Docker",
+        "Git",
+        "ASP.NET",
+        "Agile Entwicklungsmethoden",
+        "Scrum",
+        "Kanban",
+        "Visual Studio",
+        "Unit Testing",
+        "GitHub",
+        "Teamcity",
+        "Linux",
+        "Backend"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 50000
+    },
+    "_id": 321
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "PHP"],
+      "other_skills": ["JavaScript"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 322
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Technische Leitung",
+        "JavaScript",
+        "Software Architektur"
+      ],
+      "other_skills": [
+        "Nuxt.js",
+        "Svelte",
+        "Web API",
+        "Webpack",
+        "Docker",
+        "Composer",
+        "Dokumentationserstellung",
+        "Kommunikation",
+        "Next.js"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 323
+  },
+  {
+    "_source": {
+      "top_skills": ["HTML", "CSS", "JavaScript"],
+      "other_skills": [
+        "TypeScript",
+        "React",
+        "Code Reviews",
+        "Webpack",
+        "Babel",
+        "Rollup",
+        "Vite",
+        "NPM",
+        "Yarn",
+        "Microservices"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 324
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Laravel"],
+      "other_skills": [
+        "HTML",
+        "JavaScript",
+        "Agile Softwareentwicklung",
+        "MySQL",
+        "Vue.js"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 325
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Testautomatisierung", "ISTQB"],
+      "other_skills": [
+        "Agile Testing",
+        "Test Automation",
+        "Selenium",
+        "Soapui",
+        "Rest API",
+        "Ranorex",
+        "Cucumber",
+        "Tosca Testsuite",
+        "Java",
+        "C",
+        "Python",
+        "C#",
+        "API Testing",
+        "Functional Testing",
+        "Regression Testing",
+        "Jenkins",
+        "Docker",
+        "React",
+        "JUnit",
+        "Scrum"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 326
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Testautomatisierung", "ISTQB"],
+      "other_skills": [
+        "Agile Testing",
+        "Test Automation",
+        "Selenium",
+        "Soapui",
+        "Rest API",
+        "Ranorex",
+        "Cucumber",
+        "Tosca Testsuite",
+        "Java",
+        "C",
+        "Python",
+        "C#",
+        "API Testing",
+        "Functional Testing",
+        "Regression Testing",
+        "Jenkins",
+        "Docker",
+        "React",
+        "JUnit",
+        "Groovy"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 95000
+    },
+    "_id": 327
+  },
+  {
+    "_source": {
+      "top_skills": ["NestJS", "Angular 5", "Cloud Architecture"],
+      "other_skills": [
+        "Devops",
+        "Kubernetes",
+        "Docker",
+        "Node.js",
+        "JavaScript",
+        "PHP",
+        "Vue.js",
+        "CSS",
+        "Git",
+        "MySQL",
+        "MongoDB",
+        "NPM",
+        "Yarn",
+        "Composer",
+        "End to End Monitoring",
+        "Jira",
+        "Confluence",
+        "TypeScript"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 328
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Data Analytics",
+        "IT Projektmanagement",
+        "Business Intelligence"
+      ],
+      "other_skills": [
+        "Process Design",
+        "Process Analysis",
+        "Data Analysis",
+        "Prozessmanagement",
+        "Projektmanagement",
+        "Qlik Sense",
+        "SQL",
+        "Business Analysis",
+        "Data Mining",
+        "ETL"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 63000
+    },
+    "_id": 329
+  },
+  {
+    "_source": {
+      "top_skills": ["Visual Basic", "ASP.NET", "Full Stack Development"],
+      "other_skills": [".NET", "JavaScript", "SQL Server", "Winforms", "SQL"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 50000
+    },
+    "_id": 330
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Scala", "C#"],
+      "other_skills": [
+        "Web Frameworks",
+        "Rest",
+        "GraphQL",
+        "Datenbanksysteme",
+        "Design Patterns"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 331
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "PHP"],
+      "other_skills": [
+        "HTML",
+        ".NET",
+        "SQL",
+        "Relationale Datenbanken",
+        "CSS",
+        "JavaScript",
+        "Softwareentwicklung",
+        "Software Development"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 50000
+    },
+    "_id": 332
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Softwareentwicklung", "CAD Software"],
+      "other_skills": ["C#", ".NET", "GitHub"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 333
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "CAD Software"],
+      "other_skills": [
+        "GitHub",
+        "WPF",
+        "Visual Studio",
+        "MVVM",
+        "CLI",
+        "IT Administration"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 334
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "C++", "JavaScript"],
+      "other_skills": [
+        "Software Architektur",
+        ".NET",
+        "TypeScript",
+        "Full Stack Development",
+        "Scrum",
+        "Git",
+        "Jenkins"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 335
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "JavaScript"],
+      "other_skills": [
+        "HTML",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Linux",
+        "Unix",
+        "Webanwendungen",
+        "Laravel",
+        "Symfony Framework",
+        "Software Architecture"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 336
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "JavaScript"],
+      "other_skills": [
+        "Datenbankanwendungen",
+        "MySQL",
+        "Laravel",
+        "Symfony Framework",
+        "Linux",
+        "Software Architecture",
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "seniorities": ["junior"],
+      "max_salary": 45000
+    },
+    "_id": 337
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "Frontend"],
+      "other_skills": [
+        "Responsive Webdesign",
+        "2D Visualisierung",
+        "JavaScript",
+        "Rest API",
+        "CSS",
+        "Node.js",
+        "HTML",
+        "Git",
+        "Figma",
+        "UI/UX",
+        "Scrum",
+        "Visual Studio Code"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 338
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Java", "CI/CD"],
+      "other_skills": [
+        "Jenkins",
+        "Softwaretests",
+        "Softwareanalyse",
+        "Selenium",
+        "Ticketsystem",
+        "Scrum",
+        "Kanban",
+        "Quality Assurance"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 339
+  },
+  {
+    "_source": {
+      "top_skills": ["C#"],
+      "other_skills": [".NET"],
+      "seniorities": ["none", "junior"],
+      "max_salary": 60000
+    },
+    "_id": 340
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "JavaScript"],
+      "other_skills": [
+        "SQL",
+        "MySQL",
+        "HTML5",
+        "CSS",
+        "JSON",
+        "Rest",
+        "Rest API",
+        "Restful Architecture",
+        "Intellij Idea",
+        "Space",
+        "Bitbucket",
+        "Git",
+        "CI/CD",
+        "Apache Tomcat",
+        "MongoDB",
+        "Web Development",
+        "jQuery"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 341
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "JavaScript"],
+      "other_skills": [
+        "SQL",
+        "MySQL",
+        "HTML5",
+        "CSS",
+        "JSON",
+        "Rest",
+        "Rest API",
+        "Restful Architecture",
+        "Intellij Idea",
+        "Space",
+        "Bitbucket",
+        "Git",
+        "CI/CD",
+        "Apache Tomcat",
+        "MongoDB",
+        "Web Development",
+        "jQuery"
+      ],
+      "seniorities": ["junior"],
+      "max_salary": 50000
+    },
+    "_id": 342
+  },
+  {
+    "_source": {
+      "top_skills": ["Swift", "iOS Development"],
+      "other_skills": ["Mobile Development"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 343
+  },
+  {
+    "_source": {
+      "top_skills": ["Kotlin", "Java"],
+      "other_skills": ["Android"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 344
+  },
+  {
+    "_source": {
+      "top_skills": ["iOS Development", "Android Development"],
+      "other_skills": [
+        "Mobile Development",
+        "Java",
+        "Kotlin",
+        "Android",
+        "Swift"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 345
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "React", "TypeScript"],
+      "other_skills": [
+        "HTML5",
+        "CSS",
+        "Responsive Webdesign",
+        "JSON",
+        "Rest API",
+        "Rest",
+        "MySQL",
+        "jQuery",
+        "SQL",
+        "Restful Architecture",
+        "Intellij Idea",
+        "Space",
+        "Bitbucket",
+        "Git",
+        "Apache Tomcat",
+        "Web Development",
+        "AJAX",
+        "CI/CD"
+      ],
+      "seniorities": ["junior"],
+      "max_salary": 50000
+    },
+    "_id": 346
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "React", "TypeScript"],
+      "other_skills": [
+        "HTML5",
+        "CSS",
+        "Responsive Webdesign",
+        "JSON",
+        "Rest API",
+        "Rest",
+        "MySQL",
+        "jQuery",
+        "SQL",
+        "Restful Architecture",
+        "Intellij Idea",
+        "Space",
+        "Bitbucket",
+        "Git",
+        "Apache Tomcat",
+        "Web Development",
+        "AJAX",
+        "CI/CD"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 55000
+    },
+    "_id": 347
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Node.js", "IT Beratung"],
+      "other_skills": ["Consulting", "IT Consulting"],
+      "seniorities": ["junior"],
+      "max_salary": 70000
+    },
+    "_id": 348
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Node.js", "IT Beratung"],
+      "other_skills": ["Consulting", "IT Consulting"],
+      "seniorities": ["junior"],
+      "max_salary": 70000
+    },
+    "_id": 349
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Node.js", "IT Beratung"],
+      "other_skills": ["Consulting", "IT Consulting"],
+      "seniorities": ["junior"],
+      "max_salary": 70000
+    },
+    "_id": 350
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "C", "Matlab"],
+      "other_skills": ["Simulink"],
+      "seniorities": ["midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 351
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Rest API"],
+      "other_skills": ["Spring Boot"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 352
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Scala", "C#"],
+      "other_skills": [
+        "Web Frameworks",
+        "Rest",
+        "GraphQL",
+        "Datenbanksysteme",
+        "Design Patterns"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 353
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "JavaScript"],
+      "other_skills": ["Angular", "HTML", "CSS", "Rest", "GraphQL"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 354
+  },
+  {
+    "_source": {
+      "top_skills": ["Jira", "ISTQB", "MSSQL"],
+      "other_skills": [
+        "Zephyr",
+        "Abnahme Test",
+        "Testmanagement",
+        "Softwaretests",
+        "System Testing",
+        "Manual Testing",
+        "Quality Assurance",
+        "Software Testing"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 40000
+    },
+    "_id": 355
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Angular", "Spring Boot"],
+      "other_skills": [
+        "React",
+        "Oracle PL/SQL",
+        "Cloud",
+        "AWS",
+        "Microsoft Azure",
+        "CI/CD"
+      ],
+      "seniorities": ["midlevel"],
+      "max_salary": 63000
+    },
+    "_id": 356
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Angular", "Docker"],
+      "other_skills": [
+        "React",
+        "Swift",
+        "Switching",
+        "AWS",
+        "Microsoft Azure",
+        "Spring Boot",
+        "Oracle PL/SQL",
+        "Cloud",
+        "Kubernetes",
+        "CI/CD",
+        "Software Architektur"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 357
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "J2EE", "C#"],
+      "other_skills": ["MySQL", "MSSQL", "MariaDB", "Hibernate"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 358
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Quantitative Analyse", "Devops"],
+      "other_skills": [
+        "Entity Framework",
+        "ASP.NET",
+        "CI/CD",
+        "Microsoft Azure",
+        "Kubernetes",
+        "Finanzmathematik",
+        "Finanzmodelle",
+        "Kapitalm\u00e4rkte"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 359
+  },
+  {
+    "_source": {
+      "top_skills": ["Scala", "Java"],
+      "other_skills": ["Git"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 360
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "C", "Agile Softwareentwicklung"],
+      "other_skills": ["Git", "Embedded Systems"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 361
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "CI/CD", "Cmake"],
+      "other_skills": ["Git", "Agile Softwareentwicklung"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 362
+  },
+  {
+    "_source": {
+      "top_skills": ["Oracle", "Oracle Apex", "Oracle PL/SQL"],
+      "other_skills": ["HTML", "JavaScript", "CSS"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 363
+  },
+  {
+    "_source": {
+      "top_skills": ["PostgreSQL", "Node.js", "Prisma"],
+      "other_skills": ["SQL", "Cqrs"],
+      "seniorities": ["midlevel"],
+      "max_salary": 95000
+    },
+    "_id": 364
+  },
+  {
+    "_source": {
+      "top_skills": ["CSS", "HTML", "React"],
+      "other_skills": ["HTML5", "Vue.js"],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 365
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "HTML5", "CSS"],
+      "other_skills": ["MySQL", "PHP", "Elasticsearch"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 366
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "API Management", "PHP"],
+      "other_skills": ["HTML", "CSS"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 367
+  },
+  {
+    "_source": {
+      "top_skills": ["Ni Teststand", "Visual Basic", "Can BUS"],
+      "other_skills": [
+        "Pr\u00fcftechnik",
+        "Teamleitung",
+        "C#",
+        "C++",
+        "Python"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 368
+  },
+  {
+    "_source": {
+      "top_skills": ["NestJS", "Cloud Computing", "TypeScript"],
+      "other_skills": [
+        "Rest API",
+        "MongoDB",
+        "Microsoft Azure",
+        "AWS",
+        "Git",
+        "Docker",
+        "Web Services"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 369
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "MySQL", "HTML"],
+      "other_skills": ["CSS", "Git", "React", "Docker", "JavaScript"],
+      "seniorities": ["junior"],
+      "max_salary": 50000
+    },
+    "_id": 370
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java EE", "Datenbanken"],
+      "other_skills": [
+        "SQL",
+        "Nosql",
+        "Rest",
+        "SOAP",
+        "Java Spring",
+        "Git",
+        "Elasticsearch"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 371
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Microsoft Azure", "Spring Boot"],
+      "other_skills": [
+        "Cloud Architektur",
+        "Webservices",
+        "Anwendungsarchitektur",
+        "Softwareentwicklung",
+        "Agile Softwareentwicklung",
+        "Git",
+        "Docker",
+        "Microservices",
+        "Java Spring",
+        "PostgreSQL",
+        "GraphQL"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 372
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "iOS Development",
+        "Android Development",
+        "Mobile Development"
+      ],
+      "other_skills": ["Java", "Kotlin", "Android", "Swift", "iOS"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 373
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "HTML5", "CSS"],
+      "other_skills": ["MySQL", "PHP", "Elasticsearch"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 374
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "JavaScript", "TypeScript"],
+      "other_skills": ["UI/UX", "Frontend"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 375
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "React", "Team Leadership"],
+      "other_skills": [
+        "Team Leading",
+        "Agile Methodologies",
+        "Agile Methoden",
+        "Software Development Life Cycle"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 376
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "OOP", "C#"],
+      "other_skills": [
+        "Rest API",
+        "SQL",
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "React",
+        "Microsoft Windows Server",
+        "SQL Server"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 377
+  },
+  {
+    "_source": {
+      "top_skills": ["Embedded Systems", "C++", "Linux"],
+      "other_skills": ["Teamleitung", "Softwareentwicklung"],
+      "seniorities": ["midlevel"],
+      "max_salary": 85000
+    },
+    "_id": 378
+  },
+  {
+    "_source": {
+      "top_skills": ["AWS", "Next.js", "TypeScript"],
+      "other_skills": ["Node.js", "React", "GraphQL", "NestJS", "Golang"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 95000
+    },
+    "_id": 379
+  },
+  {
+    "_source": {
+      "top_skills": ["Digital Analytics", "Web Analytics", "Data Analytics"],
+      "other_skills": [
+        "A/B Testing",
+        "Adobe Analytics",
+        "Data Analysis",
+        "Google Data Studio",
+        "Google Analytics",
+        "Online Marketing",
+        "Performance Marketing",
+        "SQL",
+        "Python"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 380
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Engineering", "Microsoft Azure", "Azure DevOps"],
+      "other_skills": ["Data Analysis", "Microsoft Power BI", "ETL"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 81000
+    },
+    "_id": 381
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "CI/CD", ".NET"],
+      "other_skills": ["Azure DevOps", "Docker"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 382
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "C", "qt"],
+      "other_skills": ["Software Architecture", "QML", "UX"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 383
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "Next.js"],
+      "other_skills": [
+        "HTML5",
+        "CSS",
+        "Responsive Webdesign",
+        "JSON",
+        "Rest API",
+        "Rest",
+        "jQuery",
+        "SQL",
+        "Restful Architecture",
+        "Intellij Idea",
+        "MySQL",
+        "Git",
+        "Web Development",
+        "AJAX",
+        "JavaScript",
+        "CI/CD",
+        "Node.js",
+        "HTML",
+        "Material Design"
+      ],
+      "seniorities": ["junior"],
+      "max_salary": 50000
+    },
+    "_id": 384
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Softwareentwicklung", "Software Development"],
+      "other_skills": ["Microsoft Visual Studio", ".NET"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 55000
+    },
+    "_id": 385
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "Java"],
+      "other_skills": [
+        "HTML",
+        "SQL",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "Rest",
+        "SOAP",
+        "TypeScript"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 386
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Full Stack Development",
+        "Datenbanken",
+        "Symfony Framework"
+      ],
+      "other_skills": [
+        "TYPO3",
+        "Shopware",
+        "Git",
+        "JavaScript",
+        "CSS",
+        "Vue.js",
+        "Docker"
+      ],
+      "seniorities": ["none", "junior", "midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 387
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "JavaScript"],
+      "other_skills": ["Microservices", "Frontend", "UX/UI Design"],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 388
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "JavaScript", "SQL"],
+      "other_skills": [
+        "Spring Boot",
+        "Rest",
+        "SOAP",
+        "Microservices",
+        "Git",
+        "CI/CD",
+        "Full Stack Development",
+        "Elasticsearch",
+        "Docker"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 389
+  },
+  {
+    "_source": {
+      "top_skills": ["Java"],
+      "other_skills": [
+        "Client Server Architekturen",
+        "Spring Boot",
+        "Java Spring",
+        "TDD",
+        "Continuous Deployment"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 390
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "IT Business Analyse",
+        "IT Consulting",
+        "IT Anforderungsmanagement"
+      ],
+      "other_skills": [
+        "Scrum",
+        "Jira",
+        "Java",
+        "Agile Softwareentwicklung",
+        "IT Projektmanagement",
+        "Confluence",
+        "Agile Methoden",
+        "Anforderungsanalyse",
+        "Product Owner"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 391
+  },
+  {
+    "_source": {
+      "top_skills": ["Data Warehousing", "Data Modeling"],
+      "other_skills": [
+        "BI Consulting",
+        "SQL",
+        "ETL",
+        "Anforderungsanalyse",
+        "DWH Architektur",
+        "DWH Entwicklung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 87000
+    },
+    "_id": 392
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Shopware"],
+      "other_skills": ["TYPO3", "Git", "Docker", "Web Development", "Magento"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 55000
+    },
+    "_id": 393
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java Spring", "Spring Boot"],
+      "other_skills": [
+        "Microservices",
+        "Apache Maven",
+        "JUnit",
+        "Gradle",
+        "Angular",
+        "Apache Kafka",
+        "Scrum",
+        "Full Stack Entwicklung",
+        "Jenkins",
+        "Git",
+        "Mockito"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 394
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Full Stack Entwicklung"],
+      "other_skills": [
+        "Cloud Architektur",
+        "Devops",
+        "Git",
+        "Kafka",
+        "Docker",
+        "Kubernetes",
+        "Nosql"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 395
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Backend", "Agile Softwareentwicklung"],
+      "other_skills": ["Kubernetes", "Angular", "Spring Boot", "Git", "Docker"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 396
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Azure", "AWS", "Software Architecture"],
+      "other_skills": [
+        "IT Architecture",
+        "Google Cloud Platform (GCP)",
+        "Java",
+        "Cloud Computing"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 95000
+    },
+    "_id": 397
+  },
+  {
+    "_source": {
+      "top_skills": [".NET", "C#"],
+      "other_skills": ["SQL", "JavaScript"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 398
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "React", "Scripting Languages"],
+      "other_skills": ["Scrum", "Webentwicklung", "Frontend"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 399
+  },
+  {
+    "_source": {
+      "top_skills": ["Lead Development", "Frontend", "Engineering Management"],
+      "other_skills": [
+        "Git",
+        "Team Leading",
+        "Vue.js",
+        "HTML",
+        "CSS",
+        "Unit Testing",
+        "TypeScript",
+        "Node.js",
+        "JavaScript"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 120000
+    },
+    "_id": 400
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "TypeScript", "AWS"],
+      "other_skills": [
+        "Angular",
+        "Git",
+        "Jira",
+        "Scrum",
+        "Docker",
+        "Agile Software Development",
+        "Cloud Applications",
+        "CI/CD",
+        "Terraform",
+        "Gitlab",
+        "Microservices"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 401
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java EE"],
+      "other_skills": [
+        "JBoss",
+        "JPA",
+        "Hibernate",
+        "JUnit",
+        "SQL",
+        "Angular",
+        "Microservices"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 402
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java Spring", "Domain Driven Design"],
+      "other_skills": [
+        "Docker",
+        "Microservices",
+        "Devops",
+        "Continuous Delivery",
+        "Event Sourcing",
+        "GraphQL",
+        "API Testing",
+        "Apache Kafka",
+        "Keycloak",
+        "Kubernetes",
+        "OOP",
+        "Kotlin",
+        "Python"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 84000
+    },
+    "_id": 403
+  },
+  {
+    "_source": {
+      "top_skills": ["Big Data", "Python", "Google Cloud Platform (GCP)"],
+      "other_skills": [
+        "SQL",
+        "Datenbanken",
+        "AWS",
+        "Cloud Anwendungen",
+        "Microsoft Azure",
+        "Agile Methoden",
+        "Datenarchitektur",
+        "Datenmodellierung",
+        "Datenanalyse",
+        "Git",
+        "Docker",
+        "Data Engineering",
+        "Redshift",
+        "Apache Spark",
+        "Orchestration",
+        "DWH Architektur"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 92000
+    },
+    "_id": 404
+  },
+  {
+    "_source": {
+      "top_skills": ["Vue.js", "TypeScript"],
+      "other_skills": [
+        "Angular",
+        "JavaScript",
+        "CI/CD",
+        "Cloud",
+        "Docker",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Test Automation",
+        "Cucumber"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 405
+  },
+  {
+    "_source": {
+      "top_skills": ["Laravel", "Symfony Framework", "PHP"],
+      "other_skills": [
+        "Kubernetes",
+        "Elasticsearch",
+        "Gitlab",
+        "MySQL",
+        "Phpunit",
+        "Java",
+        "Go",
+        "Python",
+        "PhpStorm",
+        "TypeScript"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 72000
+    },
+    "_id": 406
+  },
+  {
+    "_source": {
+      "top_skills": ["JavaScript", "Python", "Java"],
+      "other_skills": [
+        "TypeScript",
+        "Angular",
+        "Django",
+        "Git",
+        "Jira",
+        "Scrum",
+        "Docker",
+        "Jenkins",
+        "Agile Software Development",
+        "Cloud Applications",
+        "React",
+        "CI/CD",
+        "Gitlab",
+        "Kubernetes",
+        "Microservices",
+        "AWS",
+        "Microsoft Azure"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 407
+  },
+  {
+    "_source": {
+      "top_skills": ["Rest API", "Full Stack Development"],
+      "other_skills": [
+        "AWS",
+        "Java",
+        "Backend",
+        "Scala",
+        "Streaming",
+        "Python",
+        "JavaScript",
+        "React",
+        "Angularjs",
+        "TypeScript",
+        "Big Data"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 408
+  },
+  {
+    "_source": {
+      "top_skills": ["Big Data", "Cloud", "Software Engineering"],
+      "other_skills": [
+        "AWS",
+        "Java",
+        "Streaming",
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "Apache Kafka",
+        "Apache Flink",
+        "Microsoft Azure"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 409
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Architektur", "Agile Softwareentwicklung"],
+      "other_skills": [
+        "Software Requirements Engineering",
+        "Web Technologien",
+        "Software Development",
+        "Leadership"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 410
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Angular", "PostgreSQL"],
+      "other_skills": ["Docker", "JavaScript"],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 411
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "Rest API", ".NET"],
+      "other_skills": [
+        "RabbitMQ",
+        "Docker Swarm",
+        "MSSQL",
+        "InfluxDB",
+        "Gitlab",
+        "Grafana",
+        "Kibana",
+        "Elasticsearch",
+        "Scrum",
+        "Jira",
+        "Confluence"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 50000
+    },
+    "_id": 412
+  },
+  {
+    "_source": {
+      "top_skills": ["Business Intelligence", "Data Science", "SAP Analytics"],
+      "other_skills": [
+        "Apache Hadoop",
+        "Data Mining",
+        "Artificial Intelligence",
+        "Hadoop",
+        "Big Data",
+        "Apache Spark",
+        "Big Data Analytics",
+        "Apache Hive",
+        "IT Consulting",
+        "Predictive Analytics",
+        "Datenmodellierung",
+        "ABAP",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "SAP"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 413
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "React", "TypeScript"],
+      "other_skills": [
+        "Docker",
+        "Spring Boot",
+        "Rest",
+        "JUnit",
+        "Cloud",
+        "Microservices",
+        "Softwareentwicklung",
+        "Backend",
+        "Frontend",
+        "Angular",
+        "JavaScript"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 88000
+    },
+    "_id": 414
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java Spring", "Vue.js"],
+      "other_skills": [
+        "Spring Boot",
+        "JEE",
+        "Microservices",
+        "Rest",
+        "JavaScript",
+        "SQL",
+        "PostgreSQL",
+        "Datenbanken",
+        "Full Stack Entwicklung",
+        "Docker"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 77000
+    },
+    "_id": 415
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Symfony Framework", "jQuery"],
+      "other_skills": ["MySQL", "JavaScript", "CSS", "Git"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 416
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "JavaScript", "TypeScript"],
+      "other_skills": [
+        "HTML",
+        "CSS",
+        "Git",
+        "Frontend",
+        "Node.js",
+        "jQuery",
+        "PHP",
+        "JSON",
+        "ELM"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 417
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Data Warehousing",
+        "Business Intelligence",
+        "IT Consulting"
+      ],
+      "other_skills": [
+        "Data Warehouse Architektur",
+        "Data Modeling",
+        "Datenmodellierung",
+        "Data Warehouse Design",
+        "DWH Architektur",
+        "ETL",
+        "DWH Entwicklung",
+        "Agile BI",
+        "Data Engineering",
+        "Data Analysis"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 418
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "ASP.NET", "JavaScript"],
+      "other_skills": [
+        "CSS",
+        "HTML5",
+        "TypeScript",
+        "Software Design",
+        "Automated Testing",
+        "Visual Studio",
+        "Clean Code Development",
+        "Entity Framework",
+        "jQuery",
+        "Signalr",
+        "Linq"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 58000
+    },
+    "_id": 419
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "ASP.NET", "Entity Framework"],
+      "other_skills": [
+        "Web API",
+        "RabbitMQ",
+        "Clean Code Development",
+        "Software Design",
+        "Automated Testing",
+        ".NET",
+        "Linq",
+        "Signalr",
+        "MSSQL",
+        "GitHub",
+        "Visual Studio"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 58000
+    },
+    "_id": 420
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "SQL", ".NET"],
+      "other_skills": [
+        "Softwareentwicklung",
+        "Visual Studio",
+        "SQL Server Management Studio",
+        "Devexpress",
+        "Datenbanken"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 421
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "JavaScript"],
+      "other_skills": ["Angular", "HTML", "CSS", "Rest", "GraphQL"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 422
+  },
+  {
+    "_source": {
+      "top_skills": ["Backend", "PHP"],
+      "other_skills": [
+        "E Commerce",
+        "Shopware",
+        "Symfony Framework",
+        "MySQL",
+        "JavaScript",
+        "Restful Webservices",
+        "PhpStorm",
+        "Git",
+        "Jira",
+        "Node.js",
+        "Smarty",
+        "SOAP",
+        "Debugging",
+        "Phpunit"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 423
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Architecture", "Java EE", "Spring Boot"],
+      "other_skills": [
+        "Microservices",
+        "Domain Driven Design",
+        "Scrum",
+        "Java",
+        "Konzeptionierung",
+        "Design",
+        "Agiles Projektmanagement",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 424
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Anforderungsanalyse",
+        "Business Analyse",
+        "IT Consulting"
+      ],
+      "other_skills": [
+        "BPMN",
+        "Gesch\u00e4ftsprozessmodellierung",
+        "Anforderungsmanagement",
+        "IT Anforderungsmanagement",
+        "Gesch\u00e4ftsprozessanalyse",
+        "IT Business Consulting"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 425
+  },
+  {
+    "_source": {
+      "top_skills": ["Testautomatisierung", "API Testing", "Testmanagement"],
+      "other_skills": [
+        "Agile Testing",
+        "Selenium",
+        "Testfallerstellung",
+        "ISTQB",
+        "Exploratory Testing",
+        "Regression Testing",
+        "Git",
+        "Cucumber",
+        "Automation Testing",
+        "Manual Testing",
+        "Test Case Design",
+        "Rest API",
+        "Jmeter",
+        "Jira",
+        "Confluence",
+        "Consulting",
+        "IT Consulting"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 426
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "Linux", "Qt Framework"],
+      "other_skills": [
+        "UML",
+        "Design Patterns",
+        "Objektorientierte Analyse",
+        "Anwendungsentwicklung",
+        "Objektorientiertes Design"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 427
+  },
+  {
+    "_source": {
+      "top_skills": ["Node.js", "Microservices", "TypeScript"],
+      "other_skills": ["Git", "Golang"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 428
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "PHP", "Symfony Framework"],
+      "other_skills": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "Less",
+        "Git",
+        "MySQL",
+        "Shopware 5",
+        "Bootstrap",
+        "Elasticsearch",
+        "Twig",
+        "NPM",
+        "Vue.js",
+        "SCSS",
+        "AJAX"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 48000
+    },
+    "_id": 429
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Software Architektur", "Elektrotechnik"],
+      "other_skills": [
+        "Docker",
+        "MQTT",
+        "Git",
+        "Elektronikkomponenten",
+        "Kubernetes",
+        "Nosql",
+        "Design Patterns",
+        "Jenkins",
+        "Verteilte Systeme",
+        "Apache Maven",
+        "API Design",
+        "Datenbanken",
+        "Restful Architecture",
+        "Java Spring",
+        "Backend",
+        "Cloud",
+        "Unit Testing",
+        "Microservices",
+        "Industrial Internet of Things"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 72000
+    },
+    "_id": 430
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "SQL", "Rest API"],
+      "other_skills": [
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "GraphQL",
+        "MySQL",
+        "Git"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 431
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "PHP", "Symfony Framework"],
+      "other_skills": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "Less",
+        "Git",
+        "MySQL",
+        "Shopware 5",
+        "Bootstrap",
+        "Elasticsearch",
+        "Twig",
+        "Vue.js"
+      ],
+      "seniorities": ["junior"],
+      "max_salary": 48000
+    },
+    "_id": 432
+  },
+  {
+    "_source": {
+      "top_skills": ["C++"],
+      "other_skills": ["Golang"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 75000
+    },
+    "_id": 433
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Kubernetes"],
+      "other_skills": [
+        "Cloud Architecture",
+        "Devops",
+        "AWS",
+        "Scrum",
+        "Docker",
+        "API Design",
+        "Domain Driven Design",
+        "Messaging",
+        "Microservices",
+        "Clean Code Development",
+        "OpenShift",
+        "Gitlab",
+        "Container",
+        "Software Engineering"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 434
+  },
+  {
+    "_source": {
+      "top_skills": ["Swift", "Kotlin", "React Native"],
+      "other_skills": [
+        "Rest",
+        "GraphQL",
+        "Unit Testing",
+        "Mobile Development",
+        "Native Apps"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 435
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "IT Consulting"],
+      "other_skills": [
+        "Consulting",
+        "Agile Methoden",
+        "Docker",
+        "Jenkins",
+        "Kubernetes",
+        "Rest API",
+        "Microservices",
+        "Datenbanken",
+        "Git",
+        "Scrum",
+        "JEE",
+        "Full Stack Entwicklung",
+        "Full Stack Development",
+        "Angular"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 436
+  },
+  {
+    "_source": {
+      "top_skills": ["React", "TypeScript", "JavaScript"],
+      "other_skills": [
+        "HTML",
+        "CSS",
+        "Full Stack Entwicklung",
+        "MongoDB",
+        "Angular",
+        "Full Stack Development",
+        "Node.js"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 75000
+    },
+    "_id": 437
+  },
+  {
+    "_source": {
+      "top_skills": ["Backend", "Git", "SQL"],
+      "other_skills": [
+        "TSQL",
+        "Microsoft Azure",
+        "Datenbankmodellierung",
+        "Datenbankmanagement"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 438
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Testmanagement", "Agile Testing"],
+      "other_skills": [
+        "HP Quality Center",
+        "ISTQB Foundation Level",
+        "Tosca",
+        "HP ALM",
+        "ISTQB",
+        "Selenium",
+        "Testkoordination",
+        "Jira",
+        "Application Testing",
+        "Testanalyse",
+        "IT Testing",
+        "Automated Testing",
+        "Quality Assurance",
+        "IT Testmanagement",
+        "Testautomatisierung",
+        "Quality Engineering"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 439
+  },
+  {
+    "_source": {
+      "top_skills": ["Cobol", "Relationale Datenbanken"],
+      "other_skills": [
+        "Oracle",
+        "Relational Databases",
+        "Z/OS",
+        "Mainframe",
+        "PL/1",
+        "DB2",
+        "Java"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 440
+  },
+  {
+    "_source": {
+      "top_skills": ["OOP", "GUI", "Web Services"],
+      "other_skills": [
+        "Datenbankanwendungen",
+        "Relationale Datenbanken",
+        "Scripting Languages",
+        "SOAP",
+        "Rest",
+        "Softwareentwicklung",
+        "Software Deployment",
+        "Thin Clients"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 441
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "React", "Next.js"],
+      "other_skills": [
+        "Cloud",
+        "Microservices",
+        "Scrum",
+        "Devops",
+        "AWS",
+        "Continuous Delivery",
+        "Continuous Deployment",
+        "UI/UX Design",
+        "UI Design",
+        "UX Design",
+        "Figma",
+        "Web Interface Design",
+        "Microsoft Azure"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 442
+  },
+  {
+    "_source": {
+      "top_skills": ["Microsoft Azure", "Cloud Solutions", "C#"],
+      "other_skills": [
+        "SQL",
+        "Automatisierung",
+        "Git",
+        "Event Driven Architecture",
+        "Microsoft Biztalk",
+        "Rest API",
+        "Integrationsprojekte",
+        "Cloud Infrastructure",
+        ".NET"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 92000
+    },
+    "_id": 443
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Full Stack Development"],
+      "other_skills": [
+        "React",
+        "Vue.js",
+        "Python",
+        "Node.js",
+        "Cloud",
+        "Google Cloud Platform (GCP)",
+        "AWS",
+        "Angular"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 444
+  },
+  {
+    "_source": {
+      "top_skills": ["Mobile Development"],
+      "other_skills": [
+        "Swift",
+        "Kotlin",
+        "Flutter",
+        "React",
+        "React Native",
+        "Java",
+        "Rest API"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 445
+  },
+  {
+    "_source": {
+      "top_skills": ["OOP", "GUI", "Web Services"],
+      "other_skills": [
+        "Datenbankanwendungen",
+        "Relationale Datenbanken",
+        "Scripting Languages",
+        "SOAP",
+        "Rest",
+        "Softwareentwicklung",
+        "Software Deployment",
+        "Thin Clients"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 446
+  },
+  {
+    "_source": {
+      "top_skills": ["GUI", "Web Services", "OOP"],
+      "other_skills": [
+        "Datenbankanwendungen",
+        "Relationale Datenbanken",
+        "Scripting Languages",
+        "SOAP",
+        "Rest",
+        "Softwareentwicklung",
+        "Software Deployment",
+        "Thin Clients"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 447
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "JavaScript"],
+      "other_skills": [
+        "WCF",
+        "Linq",
+        "ASP.NET",
+        "CSS",
+        "HTML",
+        "TypeScript",
+        "jQuery",
+        "Less",
+        "Entity Framework",
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "Visual Studio"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 60000
+    },
+    "_id": 448
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", "TypeScript", "SQL"],
+      "other_skills": [
+        "JavaScript",
+        "Angular",
+        "Java Spring",
+        "React",
+        "Vue.js",
+        "ASP.NET",
+        "Unit Testing",
+        "ORM",
+        "Rest API",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "Devops",
+        "AWS",
+        "Microsoft Azure",
+        "Java",
+        "CSS",
+        "HTML"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 95000
+    },
+    "_id": 449
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "PHP", "Symfony Framework"],
+      "other_skills": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "Less",
+        "Git",
+        "MySQL",
+        "Shopware 5",
+        "Bootstrap",
+        "Elasticsearch",
+        "Twig",
+        "NPM",
+        "Vue.js",
+        "SCSS",
+        "AJAX"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 62000
+    },
+    "_id": 450
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware", "PHP", "Symfony Framework"],
+      "other_skills": [
+        "Less",
+        "Git",
+        "MySQL",
+        "Shopware 5",
+        "Elasticsearch",
+        "Twig",
+        "NPM"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 60000
+    },
+    "_id": 451
+  },
+  {
+    "_source": {
+      "top_skills": ["Node.js", "TypeScript", "Angular"],
+      "other_skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Nosql",
+        "Test Driven Development",
+        "Microsoft Azure",
+        "AWS",
+        "MongoDB",
+        "InfluxDB",
+        "Docker",
+        "Git",
+        "Kubernetes"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 452
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java Spring", "Softwareentwicklung"],
+      "other_skills": [
+        "Eclipse RCP",
+        "XML",
+        "XSLT",
+        "CSS",
+        "SQL",
+        "Hibernate",
+        "Git"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 453
+  },
+  {
+    "_source": {
+      "top_skills": ["C#"],
+      "other_skills": [".NET", "Oracle"],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 454
+  },
+  {
+    "_source": {
+      "top_skills": ["PHP", "Symfony Framework", "Pimcore"],
+      "other_skills": [
+        "Backend",
+        "Doctrine",
+        "PostgreSQL",
+        "MySQL",
+        "PhpStorm",
+        "Git",
+        "Docker",
+        "Apis",
+        "HTML",
+        "CSS",
+        "TYPO3",
+        "Laravel"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 58000
+    },
+    "_id": 455
+  },
+  {
+    "_source": {
+      "top_skills": ["Vue.js", "SCSS", "Ecmascript"],
+      "other_skills": [
+        "Frontend",
+        "JavaScript",
+        "TypeScript",
+        "CSS",
+        "Webpack",
+        "Webstorm",
+        "Git",
+        "Apis",
+        "HTML",
+        "PhpStorm",
+        "NPM",
+        "Restful Webservices"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 58000
+    },
+    "_id": 456
+  },
+  {
+    "_source": {
+      "top_skills": ["Vue.js", "HTML5", "CSS"],
+      "other_skills": [
+        "Jest",
+        "Mocha",
+        "Jasmine",
+        "Clean Code Development",
+        "Software Design",
+        "Unit Testing",
+        "Design Patterns",
+        "Software Architecture",
+        "API Testing"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 58000
+    },
+    "_id": 457
+  },
+  {
+    "_source": {
+      "top_skills": ["iOS", "Swift", "Uikit"],
+      "other_skills": [
+        "Cocoapods",
+        "Rest API",
+        "Git",
+        "CI/CD",
+        "iOS Development"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 458
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Data Engineering",
+        "Cloud Technologien",
+        "Application Development"
+      ],
+      "other_skills": [
+        "AWS",
+        "Microsoft Azure",
+        "Big Data",
+        "Python",
+        "C#",
+        ".NET"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 90000
+    },
+    "_id": 459
+  },
+  {
+    "_source": {
+      "top_skills": ["WPF", "C#", "MSSQL"],
+      "other_skills": ["Angular"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 460
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Architecture", "Java"],
+      "other_skills": [
+        "Docker",
+        "Architecture",
+        "Continuous Integration",
+        "Devops",
+        "UML",
+        "IT Consulting",
+        "Full Stack Development",
+        "IT Beratung"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 70000
+    },
+    "_id": 461
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "SQL", "Software Architektur"],
+      "other_skills": [
+        "Java EE",
+        "Restful Architecture",
+        "CI/CD",
+        "Kafka",
+        "Quarkus",
+        "Spring Boot",
+        "Devops",
+        "Cloud",
+        "Softwareentwicklung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 462
+  },
+  {
+    "_source": {
+      "top_skills": ["Shopware"],
+      "other_skills": [
+        "CSS",
+        "JavaScript",
+        "Symfony Framework",
+        "PHP",
+        "Bootstrap"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 55000
+    },
+    "_id": 463
+  },
+  {
+    "_source": {
+      "top_skills": ["Symfony Framework", "PHP"],
+      "other_skills": ["Git", "Apis", "Backend"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 55000
+    },
+    "_id": 464
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Kotlin", "OOP"],
+      "other_skills": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "User Experience",
+        "Datenanalyse",
+        "Software Development"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 63000
+    },
+    "_id": 465
+  },
+  {
+    "_source": {
+      "top_skills": ["Selenium", "Test Automation", "Team Leading"],
+      "other_skills": ["CI/CD", "Software Quality Assurance", "Appium"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 466
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Java EE", "JavaScript"],
+      "other_skills": [
+        "Hibernate",
+        "JPA",
+        "JDBC",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "TypeScript",
+        "Git",
+        "Apache Maven",
+        "Intellij",
+        "Jira",
+        "Spring Boot"
+      ],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 70000
+    },
+    "_id": 467
+  },
+  {
+    "_source": {
+      "top_skills": ["MSSQL", "C#"],
+      "other_skills": [
+        "Vb Programmierung",
+        "SQL",
+        "Vb Scripting",
+        "Visual Basic",
+        "Anforderungsanalyse",
+        "Software Testing",
+        "Visual Studio",
+        "Microsoft Visual Studio",
+        "ERP Systems"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 468
+  },
+  {
+    "_source": {
+      "top_skills": ["Java"],
+      "other_skills": [
+        "Visual Studio",
+        "Windows",
+        "SQL",
+        "MySQL",
+        "Linux",
+        "Visual Studio Code",
+        "Eclipse RCP",
+        "Eclipse IDE"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 469
+  },
+  {
+    "_source": {
+      "top_skills": ["MSSQL", "C#"],
+      "other_skills": [
+        "Vb Programmierung",
+        "SQL",
+        "Vb Scripting",
+        "Visual Basic",
+        "Anforderungsanalyse",
+        "Software Testing",
+        "Visual Studio",
+        "Microsoft Visual Studio",
+        "ERP Systems"
+      ],
+      "seniorities": ["junior"],
+      "max_salary": 50000
+    },
+    "_id": 470
+  },
+  {
+    "_source": {
+      "top_skills": ["Java EE", "Java", "Java Spring"],
+      "other_skills": [
+        "Client/Server",
+        "Client Administration",
+        "Serveradministration",
+        "Agile Softwareentwicklung",
+        "Hibernate",
+        "JPA",
+        "JDBC",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "TypeScript",
+        "JAX rs",
+        "Git",
+        "Apache Maven",
+        "Intellij",
+        "Eclipse IDE",
+        "Jira"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 471
+  },
+  {
+    "_source": {
+      "top_skills": ["jQuery", "PHP", "Full Stack Development"],
+      "other_skills": [
+        "Virtualisierung",
+        "Devops",
+        "CI/CD",
+        "Systemarchitektur",
+        "UI",
+        "Vue.js"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 472
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "SQL", "PostgreSQL"],
+      "other_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ERP Systems",
+        "Debugging",
+        "Profiling",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Odoo"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 65000
+    },
+    "_id": 473
+  },
+  {
+    "_source": {
+      "top_skills": ["Odoo", "ERP", "Python"],
+      "other_skills": [
+        "SQL",
+        "PostgreSQL",
+        "HTML",
+        "JavaScript",
+        "Docker",
+        "XML",
+        "Kubernetes"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 474
+  },
+  {
+    "_source": {
+      "top_skills": ["Full Stack Development", "C#", ".NET"],
+      "other_skills": [
+        "Entity Framework",
+        "MSSQL",
+        "Linq",
+        "ASP.NET",
+        "MVC",
+        "Web API",
+        "Webservices",
+        "JavaScript",
+        "HTML5",
+        "CSS",
+        "JSON",
+        "jQuery",
+        "Angular",
+        "Underscore.Js",
+        "Unit Testing",
+        "Dependency Injection"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 80000
+    },
+    "_id": 475
+  },
+  {
+    "_source": {
+      "top_skills": ["Devops", "Solution Architecture", "Microservices"],
+      "other_skills": [
+        "C#",
+        "Angular",
+        "Docker",
+        "React",
+        "Git",
+        "Microsoft Azure",
+        "MSSQL",
+        "Elasticsearch",
+        "RabbitMQ",
+        "Solution Architektur",
+        ".NET"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 85000
+    },
+    "_id": 476
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "TypeScript"],
+      "other_skills": [
+        "Frontend",
+        "Unit Testing",
+        "Selenium",
+        "Accessibility",
+        "SCSS",
+        "JavaScript",
+        "Vue.js",
+        "React",
+        "UI/UX"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 75000
+    },
+    "_id": 477
+  },
+  {
+    "_source": {
+      "top_skills": ["Spring Boot", "Java", "Kubernetes"],
+      "other_skills": [
+        "JPA",
+        "JDBC",
+        "SQL",
+        "Rest",
+        "Rest API",
+        "Unit Testing",
+        "Integration Testing",
+        "Kafka",
+        "Elasticsearch",
+        "Microservices",
+        "Kibana",
+        "Grafana",
+        "Hibernate",
+        "MySQL",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Git",
+        "Docker"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 84000
+    },
+    "_id": 478
+  },
+  {
+    "_source": {
+      "top_skills": ["Angular", "TypeScript"],
+      "other_skills": [
+        "Frontend",
+        "Unit Testing",
+        "Selenium",
+        "Accessibility",
+        "SCSS",
+        "JavaScript",
+        "Vue.js",
+        "React",
+        "UI/UX"
+      ],
+      "seniorities": ["midlevel"],
+      "max_salary": 66000
+    },
+    "_id": 479
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "Python"],
+      "other_skills": [
+        "Visual Studio",
+        "Golang",
+        "Go",
+        "C++",
+        "Client Server Architekturen"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 480
+  },
+  {
+    "_source": {
+      "top_skills": ["Go", "Golang", "Linux"],
+      "other_skills": [
+        "C++",
+        "Java",
+        "Yocto",
+        "Microservices",
+        "Gitlab",
+        "Jenkins",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 481
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "OOP"],
+      "other_skills": [
+        "Visual Studio",
+        "Windows",
+        "SQL",
+        "Linux",
+        "Machine Learning"
+      ],
+      "seniorities": ["none", "junior", "midlevel"],
+      "max_salary": 65000
+    },
+    "_id": 482
+  },
+  {
+    "_source": {
+      "top_skills": ["Node.js", "TypeScript", "AWS"],
+      "other_skills": ["Coding", "Cloud Services"],
+      "seniorities": ["senior"],
+      "max_salary": 90000
+    },
+    "_id": 483
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Angular"],
+      "other_skills": [
+        "RabbitMQ",
+        "Hibernate",
+        "Kubernetes",
+        "Elasticsearch",
+        "Git",
+        "TypeScript",
+        "Code Reviews",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 73000
+    },
+    "_id": 484
+  },
+  {
+    "_source": {
+      "top_skills": ["AWS", "TypeScript", "Agile Softwareentwicklung"],
+      "other_skills": [
+        "React",
+        "DynamoDB",
+        "Cloud Based Services",
+        "AWS Lambda"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 485
+  },
+  {
+    "_source": {
+      "top_skills": ["Java Spring", "Spring Boot", "Java"],
+      "other_skills": [
+        "Git",
+        "Docker",
+        "Gitlab",
+        "Kubernetes",
+        "Agile Softwareentwicklung"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 486
+  },
+  {
+    "_source": {
+      "top_skills": ["C#", ".NET", "Industrielle Bildverarbeitung"],
+      "other_skills": ["C++", "C", "Java", "AI", "Bildverarbeitung"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 487
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Rest"],
+      "other_skills": [
+        "SQL",
+        "MySQL",
+        "JSON",
+        "Rest API",
+        "Restful Architecture",
+        "Intellij Idea",
+        "Space",
+        "Bitbucket",
+        "Git",
+        "CI/CD",
+        "Java Spring",
+        "Apache Tomcat",
+        "MongoDB",
+        "Web Development",
+        "Software Architecture",
+        "Docker"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 488
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot", "Rest"],
+      "other_skills": [
+        "SQL",
+        "MySQL",
+        "JSON",
+        "Rest API",
+        "Restful Architecture",
+        "Intellij Idea",
+        "Space",
+        "Bitbucket",
+        "Git",
+        "CI/CD",
+        "Java Spring",
+        "Apache Tomcat",
+        "MongoDB",
+        "Web Development",
+        "Software Architecture",
+        "Docker"
+      ],
+      "seniorities": ["none", "junior"],
+      "max_salary": 55000
+    },
+    "_id": 489
+  },
+  {
+    "_source": {
+      "top_skills": ["Python", "AWS", "Angular"],
+      "other_skills": [
+        "Implementierung",
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "Agile Software Development",
+        "Full Stack Development",
+        "CSS",
+        "Telekommunikationstechnologie",
+        "Bootstrap"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 490
+  },
+  {
+    "_source": {
+      "top_skills": ["Natural Language Processing", "Microsoft Azure"],
+      "other_skills": ["Machine Learning"],
+      "seniorities": ["junior", "midlevel"],
+      "max_salary": 75000
+    },
+    "_id": 491
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Test Design", "Testautomatisierung"],
+      "other_skills": [
+        "Java",
+        "Agile Testing",
+        "Selenium",
+        "Manual Testing",
+        "API Testing",
+        "Agile Methoden",
+        "ISTQB",
+        "Test Automation",
+        "Testfallerstellung",
+        "IT Consulting",
+        "Consulting",
+        "Confluence",
+        "Cucumber",
+        "ISTQB Foundation Level",
+        "Jira",
+        "HP ALM"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 492
+  },
+  {
+    "_source": {
+      "top_skills": ["Software Testing", "Java", "CI/CD"],
+      "other_skills": [
+        "Jenkins",
+        "Softwaretests",
+        "Softwareanalyse",
+        "Selenium",
+        "Ticketsystem",
+        "Scrum",
+        "Kanban",
+        "Quality Assurance"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 60000
+    },
+    "_id": 493
+  },
+  {
+    "_source": {
+      "top_skills": ["Swift", "Kotlin", "React Native"],
+      "other_skills": [
+        "Rest",
+        "GraphQL",
+        "Unit Testing",
+        "Mobile Development",
+        "Native Apps"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 80000
+    },
+    "_id": 494
+  },
+  {
+    "_source": {
+      "top_skills": ["IBM BPM", "BPM"],
+      "other_skills": [
+        "Consulting",
+        "Softwareentwicklung",
+        "Prozessautomatisierung",
+        "BPMN",
+        "Business Process Automation"
+      ],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 495
+  },
+  {
+    "_source": {
+      "top_skills": ["Java", "Spring Boot"],
+      "other_skills": ["Scrum", "Kubernetes", "Docker", "AWS"],
+      "seniorities": ["junior", "midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 496
+  },
+  {
+    "_source": {
+      "top_skills": ["Pega", "Anforderungsmanagement", "Business Analyse"],
+      "other_skills": ["Projektmanagement", "IT Projektmanagement"],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 85000
+    },
+    "_id": 497
+  },
+  {
+    "_source": {
+      "top_skills": [
+        "Business Analysis",
+        "IT Consulting",
+        "IT Projektmanagement"
+      ],
+      "other_skills": [
+        "Jira",
+        "Bankensoftware",
+        "Agiles Produktmanagement",
+        "Produktmanagement",
+        "IT Business Analyse",
+        "Anforderungsanalyse",
+        "Gesch\u00e4ftsprozessmodellierung",
+        "Anforderungsmanagement",
+        "Projektplanung",
+        "Consulting",
+        "Business Analyse",
+        "Hotellerie"
+      ],
+      "seniorities": ["midlevel", "senior"],
+      "max_salary": 70000
+    },
+    "_id": 498
+  },
+  {
+    "_source": {
+      "top_skills": ["C++", "C", "Devops"],
+      "other_skills": ["Java", "C#", "Integration Testing"],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 499
+  },
+  {
+    "_source": {
+      "top_skills": ["TypeScript", "JavaScript", "Node.js"],
+      "other_skills": [
+        "HTML5",
+        "CSS",
+        "Software Architecture",
+        "Swift",
+        "Kotlin",
+        "Vue.js",
+        "Flutter",
+        "Dart",
+        "Docker",
+        "Redis",
+        "Kubernetes",
+        "Firebase"
+      ],
+      "seniorities": ["senior"],
+      "max_salary": 100000
+    },
+    "_id": 500
+  }
+]

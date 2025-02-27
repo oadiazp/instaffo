@@ -1,0 +1,16 @@
+---
+dynamic: strict
+properties:
+  id:
+    type: long
+  max_salary:
+    type: integer
+  other_skills:
+    type: keyword
+    normalizer: lowercase
+  seniorities:
+    type: keyword
+    normalizer: lowercase
+  top_skills:
+    type: keyword
+    normalizer: lowercase
